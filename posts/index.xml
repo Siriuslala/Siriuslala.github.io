@@ -11,7 +11,14 @@
     </image>
     <generator>Hugo -- 0.133.1</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 15:52:14 +0800</lastBuildDate>
     <atom:link href="https://Siriuslala.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://Siriuslala.github.io/posts/my-first-post/</link>
+      <pubDate>Tue, 27 Aug 2024 15:52:14 +0800</pubDate>
+      <guid>https://Siriuslala.github.io/posts/my-first-post/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
