@@ -11,8 +11,16 @@
     </image>
     <generator>Hugo -- 0.133.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Aug 2024 15:51:59 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 22:52:16 +0800</lastBuildDate>
     <atom:link href="https://Siriuslala.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Possible Research Areas in Mechanistic Interpretability</title>
+      <link>https://Siriuslala.github.io/posts/mech_interp_research/</link>
+      <pubDate>Fri, 06 Sep 2024 22:52:16 +0800</pubDate>
+      <guid>https://Siriuslala.github.io/posts/mech_interp_research/</guid>
+      <description>The purpose I write this blog To get started in mech interp research, we need to have a macro understanding of this area. So I write this blog as a summarization of this field to help you and me choose a research topic.
+Circuits Discovery basic &amp;#x1f52d; resources Find a cirucuit using SAE issues ablation methods: dropout out is also an ablation superposition SAE Training Evaluation human auto &amp;#x1f52d; resources (Anthropic, 2024-8, contrastive eval &amp;amp; sort eval) Interpretability Evals for Dictionary Learning (RAVEL) RAVEL: Evaluating Interpretability Methods on Disentangling Language Model Representations Towards Principled Evaluations of Sparse Autoencoders for Interpretability and Control Application SAE + feature discovery &amp;#x1f52d; resources SPARSE AUTOENCODERS FIND HIGHLY INTERPRETABLE FEATURES IN LANGUAGE MODELS SAE + circuit discovery &amp;#x1f52d; resources Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models SAE + model steering SAE + explain model components Sparse Autoencoders Work on Attention Layer Outputs Interpreting Attention Layer Outputs with Sparse Autoencoders SAE + explain model behaviors Explain model components explain neurons, attention heads and circuits</description>
+    </item>
     <item>
       <title>Exploring Emotional Features in GPT2-Small</title>
       <link>https://Siriuslala.github.io/posts/happy_feats/</link>
