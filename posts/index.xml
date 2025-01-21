@@ -2,68 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Siriuslala&#39;s Blog!</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://Siriuslala.github.io/posts/</link>
     <description>Recent content in Posts on Siriuslala&#39;s Blog!</description>
     <image>
       <title>Siriuslala&#39;s Blog!</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://Siriuslala.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://Siriuslala.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.133.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Oct 2024 12:06:08 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>面经</title>
-      <link>http://localhost:1313/posts/%E9%9D%A2%E7%BB%8F/</link>
-      <pubDate>Sun, 13 Oct 2024 12:06:08 +0800</pubDate>
-      <guid>http://localhost:1313/posts/%E9%9D%A2%E7%BB%8F/</guid>
-      <description>国外 Anthropic (MATS) MATS 项目里 Anthropic 的 mentors 发起的 coding screen，不是Leetcode算法题，而是一个小的工程项目。项目一般是要实现一个系统（一个类）的功能（类的</description>
-    </item>
+    <lastBuildDate>Fri, 27 Sep 2024 17:15:10 +0800</lastBuildDate>
+    <atom:link href="https://Siriuslala.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>一些语言学的梗和有意思的知识</title>
-      <link>http://localhost:1313/posts/%E4%B8%80%E4%BA%9B%E8%AF%AD%E8%A8%80%E5%AD%A6%E7%9A%84%E6%A2%97%E5%92%8C%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84%E7%9F%A5%E8%AF%86/</link>
+      <link>https://Siriuslala.github.io/posts/%E4%B8%80%E4%BA%9B%E8%AF%AD%E8%A8%80%E5%AD%A6%E7%9A%84%E6%A2%97%E5%92%8C%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84%E7%9F%A5%E8%AF%86/</link>
       <pubDate>Fri, 27 Sep 2024 17:15:10 +0800</pubDate>
-      <guid>http://localhost:1313/posts/%E4%B8%80%E4%BA%9B%E8%AF%AD%E8%A8%80%E5%AD%A6%E7%9A%84%E6%A2%97%E5%92%8C%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84%E7%9F%A5%E8%AF%86/</guid>
+      <guid>https://Siriuslala.github.io/posts/%E4%B8%80%E4%BA%9B%E8%AF%AD%E8%A8%80%E5%AD%A6%E7%9A%84%E6%A2%97%E5%92%8C%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84%E7%9F%A5%E8%AF%86/</guid>
       <description>This post is written in Chinese. If you don&amp;rsquo;t know Chinese, you can learn it lol. (Sorry for this because simply translating the post into English may not be enough for you to understand). 纯玩梗 语言现象背后蕴含的知识 皮钦语 (pidgin) 大家对那些 1.言语中不时夹杂着英文单</description>
     </item>
     <item>
-      <title>My research interests</title>
-      <link>http://localhost:1313/posts/my_research_interests/</link>
-      <pubDate>Fri, 27 Sep 2024 17:07:06 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my_research_interests/</guid>
-      <description>mechanistic interpretability Computational Linguistics Circuit-tuning: A Mechanistic Approach for Understanding Instrinsic Dimension and Fine-tuning Neural Networks 袁老师建议 理论 重新审视可解释性，如何给出一个漂亮的解释（思考mech interp局限性，是否可以突破一下） 上</description>
-    </item>
-    <item>
       <title>Possible Research Areas in Mechanistic Interpretability</title>
-      <link>http://localhost:1313/posts/mech_interp_research/</link>
+      <link>https://Siriuslala.github.io/posts/mech_interp_research/</link>
       <pubDate>Fri, 06 Sep 2024 22:52:16 +0800</pubDate>
-      <guid>http://localhost:1313/posts/mech_interp_research/</guid>
+      <guid>https://Siriuslala.github.io/posts/mech_interp_research/</guid>
       <description>The Purpose I Write This Blog To get started in mech interp research, we need to have a macro understanding of this area. So I write this blog as a summarization of this field to help you and me choose a research topic.
 Circuits Discovery Methods basic activation patching (causal mediation/interchange interventions&amp;hellip;) path patching scaling techinques: attribution patching DAS (distributed alignment search) directional activation patching? &amp;#x1f52d; resources (ROME) Locating and Editing Factual Associations in GPT Attribution patching: Activation patching at industrial scale (ACDC) Towards Automated Circuit Discovery for Mechanistic Interpretability Attribution Patching Outperforms Automated Circuit Discovery AtP*: An efficient and scalable method for localizing llm behaviour to components Causal Scrubbing: a method for rigorously testing interpretability hypotheses new Using SAE Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models Automatically Identifying Local and Global Circuits with Linear Computation Graphs Contextual Decomposition Mechanistic Interpretation through Contextual Decomposition in Transformers Edge Pruning ?</description>
     </item>
     <item>
       <title>Exploring Emotional Features in GPT2-Small</title>
-      <link>http://localhost:1313/posts/happy_feats/</link>
+      <link>https://Siriuslala.github.io/posts/happy_feats/</link>
       <pubDate>Thu, 29 Aug 2024 15:51:59 +0800</pubDate>
-      <guid>http://localhost:1313/posts/happy_feats/</guid>
+      <guid>https://Siriuslala.github.io/posts/happy_feats/</guid>
       <description>&amp;#x1f3b6;Code in this post can be found at the jupyter notebook in my &amp;ldquo;saeExploration&amp;rdquo; repo.
 Find features that reflect positive emotions To find the features related to a specific emotion, I write five sentences containing the key words for each emotion. For example, for happy emotions I have:
 1 2 3 4 5 prompt_happy = [&amp;#34;I&amp;#39;ll be on a vacation tomorrow and I&amp;#39;m so happy.&amp;#34;, &amp;#34;My mombrings home a new puppy and I&amp;#39;m so happy.</description>
     </item>
     <item>
       <title>A Brief Introduction to Mechanistic Interpretability Research</title>
-      <link>http://localhost:1313/posts/mech_interp_resource/</link>
+      <link>https://Siriuslala.github.io/posts/mech_interp_resource/</link>
       <pubDate>Wed, 28 Aug 2024 13:12:25 +0800</pubDate>
-      <guid>http://localhost:1313/posts/mech_interp_resource/</guid>
+      <guid>https://Siriuslala.github.io/posts/mech_interp_resource/</guid>
       <description>The purpose I write this blog Mechanistic Interpretability is a new field in machine learning that aims to reverse engineering complicated model structures to something clear, understandable and hopefully controllable for our humans. The study of this field is still at a young age and facing mountains of challenges. While for beginners (like me), there are lots of terms or ideas which are not so familiar (e.g. superposition, circuits, activation patching, etc).</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Tue, 27 Aug 2024 15:52:14 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
