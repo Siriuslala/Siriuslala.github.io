@@ -2,25 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-02-05T16:22:33+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/circuit/</loc>
+    <lastmod>2025-02-05T16:22:33+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/circuit_tuning/</loc>
+    <lastmod>2025-02-05T16:22:33+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/machine-learning/</loc>
+    <lastmod>2025-02-05T16:22:33+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mechanistic-interpretability/</loc>
+    <lastmod>2025-02-05T16:22:33+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-10-13T12:06:08+08:00</lastmod>
+    <lastmod>2025-02-05T16:22:33+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-10-13T12:06:08+08:00</lastmod>
+    <lastmod>2025-02-05T16:22:33+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-02-05T16:22:33+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/technology/</loc>
+    <lastmod>2025-02-05T16:22:33+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/%E9%9D%A2%E7%BB%8F/</loc>
     <lastmod>2024-10-13T12:06:08+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-09-27T17:15:10+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/linguistics/</loc>
     <lastmod>2024-09-27T17:15:10+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/linguistics/</loc>
-    <lastmod>2024-09-27T17:15:10+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-09-27T17:15:10+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/%E4%B8%80%E4%BA%9B%E8%AF%AD%E8%A8%80%E5%AD%A6%E7%9A%84%E6%A2%97%E5%92%8C%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84%E7%9F%A5%E8%AF%86/</loc>
@@ -29,16 +44,7 @@
     <loc>http://localhost:1313/posts/my_research_interests/</loc>
     <lastmod>2024-09-27T17:07:06+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/machine-learning/</loc>
-    <lastmod>2024-09-06T22:52:16+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/mechanistic-interpretability/</loc>
-    <lastmod>2024-09-06T22:52:16+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/mech_interp_research/</loc>
-    <lastmod>2024-09-06T22:52:16+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/technology/</loc>
     <lastmod>2024-09-06T22:52:16+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/happy_feats/</loc>
@@ -54,6 +60,8 @@
     <lastmod>2024-08-27T15:52:14+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pdfs/circuit_tuning/</loc>
   </url><url>
     <loc>http://localhost:1313/faq/</loc>
   </url><url>
