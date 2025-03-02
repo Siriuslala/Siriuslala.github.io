@@ -18,7 +18,8 @@
       <link>http://localhost:1313/posts/mm_interp/</link>
       <pubDate>Tue, 25 Feb 2025 15:08:53 +0800</pubDate>
       <guid>http://localhost:1313/posts/mm_interp/</guid>
-      <description>Active Perception Sources Papers basic mllm Qwen2-VL: Enhancing Vision-Language Model&amp;rsquo;s Perception of the World at Any Resolution </description>
+      <description>Active Perception Sources Papers mmlm basic (CLIP) Learning Transferable Visual Models From Natural Language Supervision Qwen2-VL: Enhancing Vision-Language Model&amp;rsquo;s Perception of the World at Any Resolution Swin Transformer: Hierarchical Vision Transformer using Shifted Windows resolution DualFocus: A Unified Framework for Integrating Positive and Negative Descriptors in Text-based Person Retrieval generative models image
+basic (VQVAE) Taming transformers for high-resolution image synthesis (LDM) High-resolution image synthesis with latent diffusion models Classifier-free diffusion guidance image editing InstructPix2Pix: Learning to Follow Image Editing Instructions Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation Concept Sliders: LoRA Adaptors for Precise Control in Diffusion Models Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry Diffusion Model-Based Image Editing: A Survey video</description>
     </item>
   </channel>
 </rss>
