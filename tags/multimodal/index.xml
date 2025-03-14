@@ -18,10 +18,9 @@
       <link>http://localhost:1313/posts/mm_interp/</link>
       <pubDate>Tue, 25 Feb 2025 15:08:53 +0800</pubDate>
       <guid>http://localhost:1313/posts/mm_interp/</guid>
-      <description>Active Perception Sources Papers mmlm
-basic
+      <description>Active Perception Sources Papers mmlm basic
 (VIT) An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (CLIP) Learning Transferable Visual Models From Natural Language Supervision (DIT) Scalable Diffusion Models with Transformers (BLIP-2) BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models Qwen2-VL: Enhancing Vision-Language Model&amp;rsquo;s Perception of the World at Any Resolution resolution
-Swin Transformer: Hierarchical Vision Transformer using Shifted Windows DualFocus: A Unified Framework for Integrating Positive and Negative Descriptors in Text-based Person Retrieval generative models</description>
+Swin Transformer: Hierarchical Vision Transformer using Shifted Windows DualFocus: A Unified Framework for Integrating Positive and Negative Descriptors in Text-based Person Retrieval generative models image</description>
     </item>
   </channel>
 </rss>
