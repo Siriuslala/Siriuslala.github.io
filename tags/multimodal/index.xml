@@ -18,7 +18,7 @@
       <link>https://Siriuslala.github.io/posts/mm_interp/</link>
       <pubDate>Tue, 25 Feb 2025 15:08:53 +0800</pubDate>
       <guid>https://Siriuslala.github.io/posts/mm_interp/</guid>
-      <description>Active Perception Resource image token compression (multimodal image token compression) *AdaFV: Rethinking of Visual-Language alignment for VLM acceleration (FasterVLM) [CLS] Attention is All You Need for Training-FreeVisual Token Pruning: Make VLM Inference Faster Sparsevlm: Visual token sparsification for efficient vision-languag (FastV) An image is worth 1/2 tokens after layer 2: Plug-and-PLay Acceleration for VLLM Inference LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token *Inference Optimal VLMs</description>
+      <description>Active Perception Resource dataset (GQA) GQA:ANewDataset for Real-World Visual Reasoning and Compositional Question Answering https://cs.stanford.edu/people/dorarad/gqa/index.html image token compression (multimodal image token compression) *AdaFV: Rethinking of Visual-Language alignment for VLM acceleration (FasterVLM) [CLS] Attention is All You Need for Training-FreeVisual Token Pruning: Make VLM Inference Faster Sparsevlm: Visual token sparsification for efficient vision-languag (FastV) An image is worth 1/2 tokens after layer 2: Plug-and-PLay Acceleration for VLLM Inference LLaVA-Mini: Efficient Image</description>
     </item>
   </channel>
 </rss>
