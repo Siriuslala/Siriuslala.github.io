@@ -2,23 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Multimodal on Siriuslala&#39;s Blog!</title>
-    <link>http://localhost:1313/tags/multimodal/</link>
+    <link>https://Siriuslala.github.io/tags/multimodal/</link>
     <description>Recent content in Multimodal on Siriuslala&#39;s Blog!</description>
     <image>
       <title>Siriuslala&#39;s Blog!</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://Siriuslala.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://Siriuslala.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.133.1</generator>
+    <generator>Hugo -- 0.147.6</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Feb 2025 15:08:53 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/multimodal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Siriuslala.github.io/tags/multimodal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MM_Interp</title>
-      <link>http://localhost:1313/posts/mm_interp/</link>
+      <link>https://Siriuslala.github.io/posts/mm_interp/</link>
       <pubDate>Tue, 25 Feb 2025 15:08:53 +0800</pubDate>
-      <guid>http://localhost:1313/posts/mm_interp/</guid>
-      <description>Resource dataset (GQA) GQA:ANewDataset for Real-World Visual Reasoning and Compositional Question Answering https://cs.stanford.edu/people/dorarad/gqa/index.html image token compression (multimodal image token compression) *AdaFV: Rethinking of Visual-Language alignment for VLM acceleration (FasterVLM) [CLS] Attention is All You Need for Training-FreeVisual Token Pruning: Make VLM Inference Faster Sparsevlm: Visual token sparsification for efficient vision-languag (FastV) An image is worth 1/2 tokens after layer 2: Plug-and-PLay Acceleration for VLLM Inference LLaVA-Mini: Efficient Image and Video</description>
+      <guid>https://Siriuslala.github.io/posts/mm_interp/</guid>
+      <description>&lt;h3 id=&#34;resource&#34;&gt;Resource&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;dataset&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/1902.09506&#34;&gt;(GQA) GQA:ANewDataset for Real-World Visual Reasoning and Compositional Question Answering&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cs.stanford.edu/people/dorarad/gqa/index.html&#34;&gt;https://cs.stanford.edu/people/dorarad/gqa/index.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;image token compression&lt;/strong&gt;&lt;br&gt;
+(multimodal image token compression)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2501.09532&#34;&gt;*AdaFV: Rethinking of Visual-Language alignment for VLM acceleration&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2412.01818&#34;&gt;(FasterVLM) [CLS] Attention is All You Need for Training-FreeVisual Token Pruning: Make VLM Inference Faster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2410.04417&#34;&gt;Sparsevlm: Visual token sparsification for efficient vision-languag&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2403.06764&#34;&gt;(FastV) An image is worth 1/2 tokens after layer 2: Plug-and-PLay Acceleration for VLLM Inference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2501.03895&#34;&gt;LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2411.03312&#34;&gt;*Inference Optimal VLMs Need Only One Visual Token but Larger Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2407.02392&#34;&gt;TokenPacker: Efficient Visual Projector for Multimodal LLM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2405.17430&#34;&gt;Matryoshka Multimodal Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2405.19315&#34;&gt;Matryoshka Query Transformer for Large Vision-Language Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2412.04317&#34;&gt;FlashSloth: Lightning Multimodal Large Language Models via Embedded Visual Compression&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2501.16297&#34;&gt;FALCON: Resolving Visual Redundancy and Fragmentation in High-resolution Multimodal Large Language Models via Visual Registers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2407.14439&#34;&gt;Token-level Correlation-guided Compression for Efficient Multimodal Document Understanding&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;spatial&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
