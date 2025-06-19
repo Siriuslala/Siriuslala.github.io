@@ -11,15 +11,92 @@
     </image>
     <generator>Hugo -- 0.147.6</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Feb 2025 15:08:53 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 18 Apr 2025 15:02:36 +0800</lastBuildDate>
     <atom:link href="https://Siriuslala.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My_research_interest2</title>
+      <link>https://Siriuslala.github.io/posts/my_research_interest2/</link>
+      <pubDate>Fri, 18 Apr 2025 15:02:36 +0800</pubDate>
+      <guid>https://Siriuslala.github.io/posts/my_research_interest2/</guid>
+      <description>&lt;h2 id=&#34;traceability-tool&#34;&gt;Traceability tool&lt;/h2&gt;
+&lt;h3 id=&#34;难点&#34;&gt;难点&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;如何绕过 attention ?
+&lt;ul&gt;
+&lt;li&gt;next token 直接由 last token 的 last hidden states 生成，而 last hidden states 是上游所有 attention 和 MLP 的输出的叠加；&lt;/li&gt;
+&lt;li&gt;溯源的目标是看 next token 与序列中哪些历史 token 有关，换句话说，就是看哪些历史 token 的信息流入了 last token 的 hidden state；&lt;/li&gt;
+&lt;li&gt;Transformer 中唯一能实现 token 间信息交互的组件，就是 attention，所以 attention 也需要考虑；
+&lt;ul&gt;
+&lt;li&gt;QK circuit 告诉模型要关注什么信息；OV circuit 告诉模型要将哪些信息放到输出里&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;不过，attention 的信息已经包含在了 last token 的 hidden states 中，如果能够找到一种方法，从 hidden states 中分解出历史 token 的信息，那就可以实现溯源定位&lt;/li&gt;
+&lt;li&gt;可以的方法是，看历史 token 的 hidden states 是否在 last token 的 hidden states 中体现。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;多模态模型里图像信息会集中到 |&amp;lt;vision_end&amp;gt;|
+&lt;ul&gt;
+&lt;li&gt;MMLM 里图像信息在浅层流动到文本，而在深层基本不会发挥作用 (受到的 attention 很少)&lt;/li&gt;
+&lt;li&gt;如何&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;可以参考的&#34;&gt;可以参考的&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;information flow&lt;/li&gt;
+&lt;li&gt;attention block 方法&lt;/li&gt;
+&lt;li&gt;IOI, sv disagreement&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>My_research_interest1</title>
+      <link>https://Siriuslala.github.io/posts/my_research_interest1/</link>
+      <pubDate>Tue, 01 Apr 2025 15:50:13 +0800</pubDate>
+      <guid>https://Siriuslala.github.io/posts/my_research_interest1/</guid>
+      <description>&lt;h2 id=&#34;mm-interp&#34;&gt;MM Interp&lt;/h2&gt;
+&lt;h3 id=&#34;vision-language-alignment-in-vlm&#34;&gt;vision-language alignment in VLM&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;vision language 语义对齐&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;信息交互&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;位置编码，patch 顺序&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;现有的 VLM 可解释性研究&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;dogit lens
+&lt;ul&gt;
+&lt;li&gt;MATS 的项目&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;！VLM 里的 causal tracing&lt;/li&gt;
+&lt;li&gt;VLM 里的信息处理：Towards interpreting visual information processing in vision-language models
+&lt;ul&gt;
+&lt;li&gt;通过 logit lens 解码视觉 token，发现与语言对齐&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;信息流动
+&lt;ul&gt;
+&lt;li&gt;通过 attention 阻断&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;问题&lt;/p&gt;</description>
+    </item>
     <item>
       <title>MM_Interp</title>
       <link>https://Siriuslala.github.io/posts/mm_interp/</link>
       <pubDate>Tue, 25 Feb 2025 15:08:53 +0800</pubDate>
       <guid>https://Siriuslala.github.io/posts/mm_interp/</guid>
       <description>&lt;h2 id=&#34;resource&#34;&gt;Resource&lt;/h2&gt;
-&lt;h2 id=&#34;analyses-on-mllms&#34;&gt;Analyses on MLLMs&lt;/h2&gt;
+&lt;h3 id=&#34;analyses-on-mllms&#34;&gt;Analyses on MLLMs&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;dataset&lt;/strong&gt;&lt;/p&gt;
@@ -57,8 +134,8 @@
       <link>https://Siriuslala.github.io/posts/circuit_tuning/</link>
       <pubDate>Wed, 05 Feb 2025 16:22:33 +0800</pubDate>
       <guid>https://Siriuslala.github.io/posts/circuit_tuning/</guid>
-      <description>&lt;p&gt;The &lt;a href=&#34;https://Siriuslala.github.io/pdfs/circuit_tuning&#34;&gt;paper&lt;/a&gt; is here.&lt;/p&gt;
-&lt;p&gt;ArXiv: &lt;a href=&#34;https://arxiv.org/pdf/2502.06106&#34;&gt;https://arxiv.org/pdf/2502.06106&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;!-- The [paper](/pdfs/circuit_tuning) is here. --&gt;
+&lt;p&gt;ArXiv(old version): &lt;a href=&#34;https://arxiv.org/pdf/2502.06106&#34;&gt;https://arxiv.org/pdf/2502.06106&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>一些语言学的梗和有意思的知识</title>
@@ -160,8 +237,14 @@
       <link>https://Siriuslala.github.io/posts/mech_interp_resource/</link>
       <pubDate>Wed, 28 Aug 2024 13:12:25 +0800</pubDate>
       <guid>https://Siriuslala.github.io/posts/mech_interp_resource/</guid>
-      <description>&lt;h2 id=&#34;the-purpose-i-write-this-blog&#34;&gt;The purpose I write this blog&lt;/h2&gt;
-&lt;p&gt;Mechanistic Interpretability is a new field in machine learning that aims to reverse engineering complicated model structures to something clear, understandable and hopefully controllable for our humans. The study of this field is still at a young age and facing mountains of challenges. While for beginners (like me), there are lots of terms or ideas which are not so familiar (e.g. superposition, circuits, activation patching, etc). Thus it&amp;rsquo;s a little bit difficult for people new to this area to figure out what researchers are really doing.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&amp;#x26a0;&amp;#xfe0f; &lt;font color=&#34;red&#34;&gt;Warnings !&lt;/font&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;This post was written when I first delved into this area, and it hasn&amp;rsquo;t been updated for a long time. Thus there might be a lot of errors.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Now I&amp;rsquo;ve changed my attitude to this area. The area is not well-defined, and most of the research in this area is of low quality and is not appealing to me. Besides, I think the study of interpretability should be applied to pratical use, though we can also study it for fun.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;I&amp;rsquo;m still interested in interpretability and its applications. I&amp;rsquo;ll write something new and interesting later ~&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;:bumb: This post is accompanied with &lt;a href=&#34;https://Siriuslala.github.io/mech_interp_research.md&#34;&gt;another post&lt;/a&gt;.
+:bumb: This post is accompanied with &lt;a href=&#34;https://Siriuslala.github.io/mech_interp_research&#34;&gt;another post&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Myself</title>

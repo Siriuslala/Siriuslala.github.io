@@ -19,7 +19,7 @@
       <pubDate>Tue, 25 Feb 2025 15:08:53 +0800</pubDate>
       <guid>https://Siriuslala.github.io/posts/mm_interp/</guid>
       <description>&lt;h2 id=&#34;resource&#34;&gt;Resource&lt;/h2&gt;
-&lt;h2 id=&#34;analyses-on-mllms&#34;&gt;Analyses on MLLMs&lt;/h2&gt;
+&lt;h3 id=&#34;analyses-on-mllms&#34;&gt;Analyses on MLLMs&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;dataset&lt;/strong&gt;&lt;/p&gt;
@@ -57,8 +57,8 @@
       <link>https://Siriuslala.github.io/posts/circuit_tuning/</link>
       <pubDate>Wed, 05 Feb 2025 16:22:33 +0800</pubDate>
       <guid>https://Siriuslala.github.io/posts/circuit_tuning/</guid>
-      <description>&lt;p&gt;The &lt;a href=&#34;https://Siriuslala.github.io/pdfs/circuit_tuning&#34;&gt;paper&lt;/a&gt; is here.&lt;/p&gt;
-&lt;p&gt;ArXiv: &lt;a href=&#34;https://arxiv.org/pdf/2502.06106&#34;&gt;https://arxiv.org/pdf/2502.06106&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;!-- The [paper](/pdfs/circuit_tuning) is here. --&gt;
+&lt;p&gt;ArXiv(old version): &lt;a href=&#34;https://arxiv.org/pdf/2502.06106&#34;&gt;https://arxiv.org/pdf/2502.06106&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Possible Research Areas in Mechanistic Interpretability</title>
@@ -149,8 +149,14 @@
       <link>https://Siriuslala.github.io/posts/mech_interp_resource/</link>
       <pubDate>Wed, 28 Aug 2024 13:12:25 +0800</pubDate>
       <guid>https://Siriuslala.github.io/posts/mech_interp_resource/</guid>
-      <description>&lt;h2 id=&#34;the-purpose-i-write-this-blog&#34;&gt;The purpose I write this blog&lt;/h2&gt;
-&lt;p&gt;Mechanistic Interpretability is a new field in machine learning that aims to reverse engineering complicated model structures to something clear, understandable and hopefully controllable for our humans. The study of this field is still at a young age and facing mountains of challenges. While for beginners (like me), there are lots of terms or ideas which are not so familiar (e.g. superposition, circuits, activation patching, etc). Thus it&amp;rsquo;s a little bit difficult for people new to this area to figure out what researchers are really doing.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&amp;#x26a0;&amp;#xfe0f; &lt;font color=&#34;red&#34;&gt;Warnings !&lt;/font&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;This post was written when I first delved into this area, and it hasn&amp;rsquo;t been updated for a long time. Thus there might be a lot of errors.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Now I&amp;rsquo;ve changed my attitude to this area. The area is not well-defined, and most of the research in this area is of low quality and is not appealing to me. Besides, I think the study of interpretability should be applied to pratical use, though we can also study it for fun.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;I&amp;rsquo;m still interested in interpretability and its applications. I&amp;rsquo;ll write something new and interesting later ~&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;:bumb: This post is accompanied with &lt;a href=&#34;https://Siriuslala.github.io/mech_interp_research.md&#34;&gt;another post&lt;/a&gt;.
+:bumb: This post is accompanied with &lt;a href=&#34;https://Siriuslala.github.io/mech_interp_research&#34;&gt;another post&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
