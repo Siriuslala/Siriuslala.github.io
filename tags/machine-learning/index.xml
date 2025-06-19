@@ -14,43 +14,64 @@
     <lastBuildDate>Tue, 25 Feb 2025 15:08:53 +0800</lastBuildDate>
     <atom:link href="https://Siriuslala.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>MM_Interp</title>
+      <title>Interpretability for Multimodal Models</title>
       <link>https://Siriuslala.github.io/posts/mm_interp/</link>
       <pubDate>Tue, 25 Feb 2025 15:08:53 +0800</pubDate>
       <guid>https://Siriuslala.github.io/posts/mm_interp/</guid>
       <description>&lt;h2 id=&#34;resource&#34;&gt;Resource&lt;/h2&gt;
+&lt;h3 id=&#34;interpretability-for-mllms&#34;&gt;Interpretability for MLLMs&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;survey&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2502.17516&#34;&gt;A Survey on Mechanistic Interpretability for Multi-Modal Foundation Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2502.01048v1&#34;&gt;Sparks of Explainability Recent Advancements in Explaining Large Vision Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/itsqyh/Awesome-LMMs-Mechanistic-Interpretability?tab=readme-ov-file#-blog&#34;&gt;Awesome LMMs Mechanistic Interpretability&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;probing&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2402.17304&#34;&gt;Probing Multimodal Large Language Models for Global and Local Semantic Representations&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CLIP&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2310.05916&#34;&gt;Interpreting CLIP&amp;rsquo;s Image Representation via Text-Based Decomposition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2406.04341&#34;&gt;Interpreting the Second-Order Effects of Neurons in CLIP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cnblogs.com/LittleHenry/p/18688886&#34;&gt;CLIP不同层&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;information flow&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2411.17491&#34;&gt;*What&amp;rsquo;s in the Image? A Deep-Dive into the Vision of Vision Language Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2412.06646&#34;&gt;The Narrow Gate: Localized Image-Text Communication in Vision-Language Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Performance Gap in Entity Knowledge Extraction Across Modalities in Vision Language Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2503.13108&#34;&gt;Lifting the Veil on Visual Information Flow in MLLMs: Unlocking Pathways to Faster Inference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2411.18620&#34;&gt;**Cross-modal Information Flow in Multimodal Large Language Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2406.06579&#34;&gt;*From Redundancy to Relevance: Information Flow in LVLMs Across Reasoning Tasks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;others&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2410.07149&#34;&gt;**Towards interpreting visual information processing in vision-language models&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://clementneo.com/llava_logit_lens/&#34;&gt;demo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2406.04236&#34;&gt;**(causal tracing) Understanding Information Storage and Transfer in Multi-modal Large Language Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.alignmentforum.org/posts/kobJymvvcvhbjWFKe/laying-the-foundations-for-vision-and-multimodal-mechanistic&#34;&gt;(dogit lens) Laying the Foundations for Vision and Multimodal Mechanistic Interpretability &amp;amp; Open Problems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2203.14680&#34;&gt;Transformer feed-forward layers build predictions by promoting concepts in the vocabulary space&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;visualization
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2012.09838&#34;&gt;Transformer Interpretability Beyond Attention Visualization&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;analyses-on-mllms&#34;&gt;Analyses on MLLMs&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;dataset&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/1902.09506&#34;&gt;(GQA) GQA:ANewDataset for Real-World Visual Reasoning and Compositional Question Answering&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://cs.stanford.edu/people/dorarad/gqa/index.html&#34;&gt;https://cs.stanford.edu/people/dorarad/gqa/index.html&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;image token compression&lt;/strong&gt;&lt;br&gt;
-(multimodal image token compression)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2501.09532&#34;&gt;*AdaFV: Rethinking of Visual-Language alignment for VLM acceleration&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2412.01818&#34;&gt;(FasterVLM) [CLS] Attention is All You Need for Training-FreeVisual Token Pruning: Make VLM Inference Faster&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2410.04417&#34;&gt;Sparsevlm: Visual token sparsification for efficient vision-languag&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2403.06764&#34;&gt;(FastV) An image is worth 1/2 tokens after layer 2: Plug-and-PLay Acceleration for VLLM Inference&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2501.03895&#34;&gt;LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2411.03312&#34;&gt;*Inference Optimal VLMs Need Only One Visual Token but Larger Models&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2407.02392&#34;&gt;TokenPacker: Efficient Visual Projector for Multimodal LLM&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2405.17430&#34;&gt;Matryoshka Multimodal Models&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2405.19315&#34;&gt;Matryoshka Query Transformer for Large Vision-Language Models&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2412.04317&#34;&gt;FlashSloth: Lightning Multimodal Large Language Models via Embedded Visual Compression&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2501.16297&#34;&gt;FALCON: Resolving Visual Redundancy and Fragmentation in High-resolution Multimodal Large Language Models via Visual Registers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2407.14439&#34;&gt;Token-level Correlation-guided Compression for Efficient Multimodal Document Understanding&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;spatial&lt;/strong&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;dataset&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Circuit-tuning: A Mechanistic Approach for Identifying Parameter Redundancy and Fine-tuning Neural Networks</title>
@@ -65,7 +86,9 @@
       <link>https://Siriuslala.github.io/posts/mech_interp_research/</link>
       <pubDate>Fri, 06 Sep 2024 22:52:16 +0800</pubDate>
       <guid>https://Siriuslala.github.io/posts/mech_interp_research/</guid>
-      <description>&lt;h2 id=&#34;the-purpose-i-write-this-blog&#34;&gt;The Purpose I Write This Blog&lt;/h2&gt;
+      <description>&lt;p&gt;&amp;#x1f4a1;
+This post is mainly focused on text models. For multi-modal models, please refer to &lt;a href=&#34;https://Siriuslala.github.io/posts/mm_interp/&#34;&gt;this post&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;the-purpose-i-write-this-blog&#34;&gt;The Purpose I Write This Blog&lt;/h2&gt;
 &lt;p&gt;   To get started in mech interp research, we need to have a macro understanding of this area. So I write this blog as a summarization of this field to help you and me choose a research topic.&lt;/p&gt;
 &lt;h2 id=&#34;circuit-discovery&#34;&gt;Circuit Discovery&lt;/h2&gt;
 &lt;h3 id=&#34;methods&#34;&gt;Methods&lt;/h3&gt;
@@ -149,14 +172,14 @@
       <link>https://Siriuslala.github.io/posts/mech_interp_resource/</link>
       <pubDate>Wed, 28 Aug 2024 13:12:25 +0800</pubDate>
       <guid>https://Siriuslala.github.io/posts/mech_interp_resource/</guid>
-      <description>&lt;p&gt;&amp;#x26a0;&amp;#xfe0f; &lt;font color=&#34;red&#34;&gt;Warnings !&lt;/font&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&amp;#x26a0;&amp;#xfe0f; &lt;font color=&#34;red&#34;&gt;&lt;em&gt;&lt;strong&gt;Warnings&lt;/strong&gt;&lt;/em&gt;&lt;/font&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;This post was written when I first delved into this area, and it hasn&amp;rsquo;t been updated for a long time. Thus there might be a lot of errors.&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Now I&amp;rsquo;ve changed my attitude to this area. The area is not well-defined, and most of the research in this area is of low quality and is not appealing to me. Besides, I think the study of interpretability should be applied to pratical use, though we can also study it for fun.&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;I&amp;rsquo;m still interested in interpretability and its applications. I&amp;rsquo;ll write something new and interesting later ~&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;:bumb: This post is accompanied with &lt;a href=&#34;https://Siriuslala.github.io/mech_interp_research.md&#34;&gt;another post&lt;/a&gt;.
-:bumb: This post is accompanied with &lt;a href=&#34;https://Siriuslala.github.io/mech_interp_research&#34;&gt;another post&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;&amp;#x1f4a1;
+This post is accompanied with &lt;a href=&#34;https://Siriuslala.github.io/posts/mech_interp_research/&#34;&gt;another post&lt;/a&gt;, which contains specific content in this area.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
