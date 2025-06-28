@@ -19,7 +19,16 @@
       <pubDate>Sat, 28 Jun 2025 13:01:09 +0800</pubDate>
       <guid>https://Siriuslala.github.io/posts/llm-agent/</guid>
       <description>&lt;h2 id=&#34;the-purpose-i-write-this-blog&#34;&gt;The Purpose I Write This Blog&lt;/h2&gt;
-&lt;p&gt;   LLM-based agent is gonna change the world. Amazing agent systems have been created to change our life. Since I was once in a team that aimed to build advanced agents for the control of digital devices and for which I was impressed, I want to keep to collect information about LLM agents and share my thoughts here.&lt;/p&gt;</description>
+&lt;p&gt;   LLM-based agent is gonna change the world. Amazing agent systems have been created to change our life. Since I was once in a team that aimed to build advanced agents for the control of digital devices and for which I was impressed, I want to keep to collect information about LLM agents and share my thoughts here.&lt;/p&gt;
+&lt;h2 id=&#34;resource&#34;&gt;Resource&lt;/h2&gt;
+&lt;h3 id=&#34;gui-agents&#34;&gt;GUI Agents&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2411.18279&#34;&gt;Large Language Model-Brained GUI Agents: A Survey&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s?__biz=MzkwNjE2ODMxNQ==&amp;amp;mid=2247488335&amp;amp;idx=1&amp;amp;sn=506d56c87a179b3af119d4f70dd549f5&amp;amp;scene=21&amp;amp;poc_token=HIF1X2ijWKfo2MykofnxM8oq-4mrLjJkhL8TdWx4&#34;&gt;GUI Agent综述 : 揭秘GUI智能体的前世今生-1 : 总览篇-启程&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
