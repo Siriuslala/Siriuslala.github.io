@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Reasoning on Siriuslala&#39;s Blog!</title>
+    <link>https://Siriuslala.github.io/tags/reasoning/</link>
+    <description>Recent content in Reasoning on Siriuslala&#39;s Blog!</description>
+    <image>
+      <title>Siriuslala&#39;s Blog!</title>
+      <url>https://Siriuslala.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://Siriuslala.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.6</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Jun 2025 10:50:00 +0800</lastBuildDate>
+    <atom:link href="https://Siriuslala.github.io/tags/reasoning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://Siriuslala.github.io/posts/thinking_and_reasoning/</link>
+      <pubDate>Mon, 30 Jun 2025 10:50:00 +0800</pubDate>
+      <guid>https://Siriuslala.github.io/posts/thinking_and_reasoning/</guid>
+      <description>&lt;h2 id=&#34;the-purpose-i-write-this-blog&#34;&gt;The Purpose I Write This Blog&lt;/h2&gt;
+&lt;p&gt;   Thinking models are crazily popualr nowadays. The first time I delved in this area was in September, 2023. Later I gradually forgetted this area, until Deepseek came to life. I want to keep to collect information about LLM reasoning and share my thoughts here.&lt;/p&gt;
+&lt;h3 id=&#34;thinking-models&#34;&gt;Thinking Models&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;text-based&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2501.12948?&#34;&gt;DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;visual reasoning&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2312.14135&#34;&gt;$V^{*}$: Guided Visual Search as a Core Mechanism in Multimodal LLMs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;evaluation&#34;&gt;Evaluation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;dataset&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;reinforcement-learning&#34;&gt;Reinforcement Learning&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;basic&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

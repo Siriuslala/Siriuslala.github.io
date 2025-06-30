@@ -11,8 +11,39 @@
     </image>
     <generator>Hugo -- 0.147.6</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jun 2025 13:01:09 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 10:50:00 +0800</lastBuildDate>
     <atom:link href="https://Siriuslala.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://Siriuslala.github.io/posts/thinking_and_reasoning/</link>
+      <pubDate>Mon, 30 Jun 2025 10:50:00 +0800</pubDate>
+      <guid>https://Siriuslala.github.io/posts/thinking_and_reasoning/</guid>
+      <description>&lt;h2 id=&#34;the-purpose-i-write-this-blog&#34;&gt;The Purpose I Write This Blog&lt;/h2&gt;
+&lt;p&gt;   Thinking models are crazily popualr nowadays. The first time I delved in this area was in September, 2023. Later I gradually forgetted this area, until Deepseek came to life. I want to keep to collect information about LLM reasoning and share my thoughts here.&lt;/p&gt;
+&lt;h3 id=&#34;thinking-models&#34;&gt;Thinking Models&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;text-based&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2501.12948?&#34;&gt;DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;visual reasoning&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2312.14135&#34;&gt;$V^{*}$: Guided Visual Search as a Core Mechanism in Multimodal LLMs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;evaluation&#34;&gt;Evaluation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;dataset&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;reinforcement-learning&#34;&gt;Reinforcement Learning&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;basic&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>LLM Agents</title>
       <link>https://Siriuslala.github.io/posts/llm-agent/</link>
@@ -28,14 +59,21 @@
 &lt;li&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s?__biz=MzkwNjE2ODMxNQ==&amp;amp;mid=2247488335&amp;amp;idx=1&amp;amp;sn=506d56c87a179b3af119d4f70dd549f5&amp;amp;scene=21&amp;amp;poc_token=HIF1X2ijWKfo2MykofnxM8oq-4mrLjJkhL8TdWx4&#34;&gt;GUI Agent综述 : 揭秘GUI智能体的前世今生-1 : 总览篇-启程&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;/ul&gt;
+&lt;h3 id=&#34;deepresearch&#34;&gt;DeepResearch&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://moonshotai.github.io/Kimi-Researcher/&#34;&gt;Kimi-Researcher End-to-End RL Training for Emerging Agentic Capabilities&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;agentic-rl&#34;&gt;Agentic RL&lt;/h3&gt;</description>
     </item>
     <item>
       <title>Interpretability for Multimodal Models</title>
       <link>https://Siriuslala.github.io/posts/mm_interp/</link>
       <pubDate>Tue, 25 Feb 2025 15:08:53 +0800</pubDate>
       <guid>https://Siriuslala.github.io/posts/mm_interp/</guid>
-      <description>&lt;h2 id=&#34;resource&#34;&gt;Resource&lt;/h2&gt;
+      <description>&lt;p&gt;&amp;#x1f4a1;
+This post is initially focused on interpretability for multimodal models, while later a lot of papers in other fields are included, just for convenience.&lt;/p&gt;
+&lt;h2 id=&#34;resource&#34;&gt;Resource&lt;/h2&gt;
 &lt;h3 id=&#34;interpretability-for-mllms&#34;&gt;Interpretability for MLLMs&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;survey&lt;/strong&gt;
@@ -85,10 +123,37 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;analyses-on-mllms&#34;&gt;Analyses on MLLMs&lt;/h3&gt;
+&lt;h3 id=&#34;dataset&#34;&gt;Dataset&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;general&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/1902.09506&#34;&gt;(GQA) GQA:ANewDataset for Real-World Visual Reasoning and Compositional Question Answering&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cs.stanford.edu/people/dorarad/gqa/index.html&#34;&gt;https://cs.stanford.edu/people/dorarad/gqa/index.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;spatial&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2210.01936&#34;&gt;(ARO) When and why vision-language models behave like bags-of-words, and what to do about it?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aclanthology.org/2023.emnlp-main.568.pdf&#34;&gt;(Whatsup) What’s “up” with vision-language models? Investigating their struggle with spatial reasoning&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/amitakamath/whatsup_vlms&#34;&gt;https://github.com/amitakamath/whatsup_vlms&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00566/116470&#34;&gt;(VSR) Visual Spatial Reasoning&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cambridgeltl/visual-spatial-reasoning&#34;&gt;https://github.com/cambridgeltl/visual-spatial-reasoning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;other-fields-of-mllms&#34;&gt;Other fields of MLLMs&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;dataset&lt;/strong&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;spatial&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Circuit-tuning: A Mechanistic Approach for Identifying Parameter Redundancy and Fine-tuning Neural Networks</title>
