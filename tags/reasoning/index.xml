@@ -14,7 +14,7 @@
     <lastBuildDate>Mon, 30 Jun 2025 10:50:00 +0800</lastBuildDate>
     <atom:link href="https://Siriuslala.github.io/tags/reasoning/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>Thinking and Reasoning</title>
       <link>https://Siriuslala.github.io/posts/thinking_and_reasoning/</link>
       <pubDate>Mon, 30 Jun 2025 10:50:00 +0800</pubDate>
       <guid>https://Siriuslala.github.io/posts/thinking_and_reasoning/</guid>
@@ -25,24 +25,27 @@
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;text-based&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;explicit reasoning
+&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2501.12948?&#34;&gt;DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2501.12599&#34;&gt;Kimi k1.5: Scaling Reinforcement Learning with LLMs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;implicit reasoning
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2412.06769&#34;&gt;(Coconut) Training Large Language Models to Reason in a Continuous Latent Space&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;overthinking
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2407.06023&#34;&gt;Distilling System 2 into System 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2501.12570&#34;&gt;O1-Pruner: Length-Harmonizing Fine-Tuning for O1-Like Reasoning Pruning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;visual reasoning&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2312.14135&#34;&gt;$V^{*}$: Guided Visual Search as a Core Mechanism in Multimodal LLMs&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;evaluation&#34;&gt;Evaluation&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;dataset&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;reinforcement-learning&#34;&gt;Reinforcement Learning&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;basic&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;p&gt;&lt;strong&gt;visual reasoning&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -31,9 +31,18 @@
 &lt;/ul&gt;
 &lt;h3 id=&#34;deepresearch&#34;&gt;DeepResearch&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://moonshotai.github.io/Kimi-Researcher/&#34;&gt;Kimi-Researcher End-to-End RL Training for Emerging Agentic Capabilities&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;survey&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2506.18096&#34;&gt;Deep Research Agents: A Systematic Examination And Roadmap&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;agentic-rl&#34;&gt;Agentic RL&lt;/h3&gt;</description>
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://moonshotai.github.io/Kimi-Researcher/&#34;&gt;Kimi-Researcher End-to-End RL Training for Emerging Agentic Capabilities&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2506.20249&#34;&gt;Language Modeling by Language Models&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;agentic-rl&#34;&gt;Agentic RL&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://proceedings.neurips.cc/paper_files/paper/2024/file/c848b7d3adc08fcd0bf1df3101ba6728-Paper-Conference.pdf&#34;&gt;Fine-Tuning Large Vision-Language Models as  Decision-Making Agents via Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
