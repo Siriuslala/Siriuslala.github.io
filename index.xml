@@ -30,6 +30,7 @@
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2501.12948?&#34;&gt;DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2504.13914&#34;&gt;Seed1.5-Thinking: Advancing Superb Reasoning Models with Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2501.12599&#34;&gt;Kimi k1.5: Scaling Reinforcement Learning with LLMs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2508.06471&#34;&gt;GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2505.22312&#34;&gt;Skywork Open Reasoner 1 Technical Report&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -38,17 +39,17 @@
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2412.06769&#34;&gt;(Coconut) Training Large Language Models to Reason in a Continuous Latent Space&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;overthinking
+&lt;li&gt;blogs
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2407.06023&#34;&gt;Distilling System 2 into System 1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2501.12570&#34;&gt;O1-Pruner: Length-Harmonizing Fine-Tuning for O1-Like Reasoning Pruning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2507.04742&#34;&gt;Activation Steering for Chain-of-Thought Compression&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://yuanchaofa.com/post/deepseek-r1-paper-reading-notes.html&#34;&gt;自顶向下方式深度解读 DeepSeek-R1，内含大量细节&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://yuanchaofa.com/post/hands-on-deepseek-mla.html&#34;&gt;MLA(1)：从代码角度学习和彻底理解 DeepSeek MLA 算法&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/20161412399&#34;&gt;从头理解思考模型（LLM based Reasoning Model），O1，DeepSeek R1，Kimi K1.5&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;visual reasoning&lt;/strong&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;overthinking&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>LLM Agents</title>
@@ -98,7 +99,9 @@
 &lt;/ul&gt;
 &lt;h3 id=&#34;agentic-rl&#34;&gt;Agentic RL&lt;/h3&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/1913905349284591240&#34;&gt;Reasoning LLM（四）：Agentic RL&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://proceedings.neurips.cc/paper_files/paper/2024/file/c848b7d3adc08fcd0bf1df3101ba6728-Paper-Conference.pdf&#34;&gt;Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2411.02337&#34;&gt;Webrl: Training llm web agents via self-evolving online curriculum reinforcement&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     <item>
@@ -144,6 +147,7 @@ This post is initially focused on interpretability for multimodal models, while
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.lesswrong.com/posts/iYFuZo9BMvr6GgMs5/case-study-interpreting-manipulating-and-controlling-clip&#34;&gt;Case study: Interpreting, manipulating, and controlling clip with sparse autoencoders&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.lesswrong.com/posts/bCtbuWraqYTDtuARg/towards-multimodal-interpretability-learning-sparse-2&#34;&gt;Towards multimodal interpretability: Learning sparse interpretable features in vision transformers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2407.14499&#34;&gt;Discover-then-Name: Task-Agnostic Concept Bottlenecks via Automated Concept Discovery&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;visualization&lt;/strong&gt;

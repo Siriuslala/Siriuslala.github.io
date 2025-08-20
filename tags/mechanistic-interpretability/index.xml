@@ -56,6 +56,7 @@ This post is initially focused on interpretability for multimodal models, while
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.lesswrong.com/posts/iYFuZo9BMvr6GgMs5/case-study-interpreting-manipulating-and-controlling-clip&#34;&gt;Case study: Interpreting, manipulating, and controlling clip with sparse autoencoders&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.lesswrong.com/posts/bCtbuWraqYTDtuARg/towards-multimodal-interpretability-learning-sparse-2&#34;&gt;Towards multimodal interpretability: Learning sparse interpretable features in vision transformers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2407.14499&#34;&gt;Discover-then-Name: Task-Agnostic Concept Bottlenecks via Automated Concept Discovery&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;visualization&lt;/strong&gt;
