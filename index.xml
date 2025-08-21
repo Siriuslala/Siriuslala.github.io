@@ -61,9 +61,29 @@
 &lt;h2 id=&#34;resource&#34;&gt;Resource&lt;/h2&gt;
 &lt;h3 id=&#34;gui-agents&#34;&gt;GUI Agents&lt;/h3&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;survey&lt;/strong&gt;
+&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2411.18279&#34;&gt;Large Language Model-Brained GUI Agents: A Survey&lt;/a&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s?__biz=MzkwNjE2ODMxNQ==&amp;amp;mid=2247488335&amp;amp;idx=1&amp;amp;sn=506d56c87a179b3af119d4f70dd549f5&amp;amp;scene=21&amp;amp;poc_token=HIF1X2ijWKfo2MykofnxM8oq-4mrLjJkhL8TdWx4&#34;&gt;GUI Agent综述 : 揭秘GUI智能体的前世今生-1 : 总览篇-启程&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;models&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2411.00820&#34;&gt;Autoglm: Autonomous foundation agents for guis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2411.02337&#34;&gt;WebRL:Training llm web agents via self-evolving online curriculum reinforcement learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://proceedings.neurips.cc/paper_files/paper/2024/file/1704ddd0bb89f159dfe609b32c889995-Paper-Conference.pdf&#34;&gt;DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2401.10935&#34;&gt;SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;benchmarks&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2307.13854&#34;&gt;WebArena: A Realistic Web Environment for Building Autonomous Agents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://proceedings.neurips.cc/paper_files/paper/2023/file/5950bf290a1570ea401bf98882128160-Paper-Datasets_and_Benchmarks.pdf&#34;&gt;Mind2web: Towards a generalist agent for the web&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://proceedings.mlr.press/v70/shi17a/shi17a.pdf&#34;&gt;World of Bits: An Open-Domain Platform for Web-Based Agents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://proceedings.neurips.cc/paper_files/paper/2023/file/bbbb6308b402fe909c39dd29950c32e0-Paper-Datasets_and_Benchmarks.pdf&#34;&gt;Android in the Wild: A Large-Scale Dataset for Android Device Control&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -101,7 +121,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/1913905349284591240&#34;&gt;Reasoning LLM（四）：Agentic RL&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://proceedings.neurips.cc/paper_files/paper/2024/file/c848b7d3adc08fcd0bf1df3101ba6728-Paper-Conference.pdf&#34;&gt;Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2411.02337&#34;&gt;Webrl: Training llm web agents via self-evolving online curriculum reinforcement&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     <item>
