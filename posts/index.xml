@@ -90,16 +90,29 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://proceedings.neurips.cc/paper_files/paper/2024/file/1704ddd0bb89f159dfe609b32c889995-Paper-Conference.pdf&#34;&gt;DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2401.10935&#34;&gt;SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dl.acm.org/doi/pdf/10.1145/3706598.3713600&#34;&gt;Appagent: Multimodal agents as smartphone users&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2401.01614&#34;&gt;(SeeAct) GPT-4V(ision) is a Generalist Web Agent, if Grounded&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2310.11441&#34;&gt;Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;benchmarks&lt;/strong&gt;
 &lt;ul&gt;
+&lt;li&gt;web
+&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2307.13854&#34;&gt;WebArena: A Realistic Web Environment for Building Autonomous Agents&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://proceedings.neurips.cc/paper_files/paper/2023/file/5950bf290a1570ea401bf98882128160-Paper-Datasets_and_Benchmarks.pdf&#34;&gt;Mind2web: Towards a generalist agent for the web&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://proceedings.mlr.press/v70/shi17a/shi17a.pdf&#34;&gt;World of Bits: An Open-Domain Platform for Web-Based Agents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://proceedings.neurips.cc/paper_files/paper/2024/file/5d413e48f84dc61244b6be550f1cd8f5-Paper-Datasets_and_Benchmarks_Track.pdf&#34;&gt;Osworld: Benchmarking multimodal agents for open-ended tasks in real computer environments&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://proceedings.mlr.press/v70/shi17a/shi17a.pdf&#34;&gt;(MiniWob) World of Bits: An Open-Domain Platform for Web-Based Agents&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;android
+&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://proceedings.neurips.cc/paper_files/paper/2023/file/bbbb6308b402fe909c39dd29950c32e0-Paper-Datasets_and_Benchmarks.pdf&#34;&gt;Android in the Wild: A Large-Scale Dataset for Android Device Control&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2402.06596&#34;&gt;(AndroidArena) Understanding the weakness of large language model agents within a complex android environment&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -121,7 +134,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/jina-ai/node-DeepResearch&#34;&gt;(Jina) node-DeepResearch Public&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://moonshotai.github.io/Kimi-Researcher/&#34;&gt;Kimi-Researcher End-to-End RL Training for Emerging Agentic Capabilities&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://moonshotai.github.io/Kimi-Researcher/&#34;&gt;Kimi-Researcher: End-to-End RL Training for Emerging Agentic Capabilities&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2506.20249&#34;&gt;Language Modeling by Language Models&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
