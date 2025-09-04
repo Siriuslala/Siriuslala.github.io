@@ -81,6 +81,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2508.14040&#34;&gt;ComputerRL: Scaling End-to-End Online Reinforcement Learning for Computer Use Agents&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/Xiao9905/AutoGLM/blob/main/static/papers/mobilerl_0820.pdf&#34;&gt;MobileRL: Advancing Mobile Use Agents With Adaptive Online Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2504.19298&#34;&gt;ANDROIDGEN: Building an Android Language Agent under Data Scarcity&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2411.00820&#34;&gt;Autoglm: Autonomous foundation agents for guis&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2411.02337&#34;&gt;WebRL:Training llm web agents via self-evolving online curriculum reinforcement learning&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2410.24024&#34;&gt;AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents&lt;/a&gt;&lt;/li&gt;
@@ -141,9 +142,8 @@
 &lt;/ul&gt;
 &lt;h3 id=&#34;agentic-rl&#34;&gt;Agentic RL&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/1913905349284591240&#34;&gt;Reasoning LLM（四）：Agentic RL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://proceedings.neurips.cc/paper_files/paper/2024/file/c848b7d3adc08fcd0bf1df3101ba6728-Paper-Conference.pdf&#34;&gt;Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;li&gt;
+&lt;p&gt;papers&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interpretability for Multimodal Models</title>
