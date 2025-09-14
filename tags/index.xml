@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Siriuslala&#39;s Blog!</title>
-    <link>https://Siriuslala.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Siriuslala&#39;s Blog!</description>
     <image>
       <title>Siriuslala&#39;s Blog!</title>
-      <url>https://Siriuslala.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://Siriuslala.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.147.6</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Jun 2025 10:50:00 +0800</lastBuildDate>
-    <atom:link href="https://Siriuslala.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reasoning</title>
-      <link>https://Siriuslala.github.io/tags/reasoning/</link>
+      <link>http://localhost:1313/tags/reasoning/</link>
       <pubDate>Mon, 30 Jun 2025 10:50:00 +0800</pubDate>
-      <guid>https://Siriuslala.github.io/tags/reasoning/</guid>
+      <guid>http://localhost:1313/tags/reasoning/</guid>
       <description></description>
     </item>
     <item>
       <title>Agent</title>
-      <link>https://Siriuslala.github.io/tags/agent/</link>
+      <link>http://localhost:1313/tags/agent/</link>
       <pubDate>Sat, 28 Jun 2025 13:01:09 +0800</pubDate>
-      <guid>https://Siriuslala.github.io/tags/agent/</guid>
+      <guid>http://localhost:1313/tags/agent/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine Learning</title>
-      <link>https://Siriuslala.github.io/tags/machine-learning/</link>
+      <link>http://localhost:1313/tags/machine-learning/</link>
       <pubDate>Tue, 25 Feb 2025 15:08:53 +0800</pubDate>
-      <guid>https://Siriuslala.github.io/tags/machine-learning/</guid>
+      <guid>http://localhost:1313/tags/machine-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Mechanistic Interpretability</title>
-      <link>https://Siriuslala.github.io/tags/mechanistic-interpretability/</link>
+      <link>http://localhost:1313/tags/mechanistic-interpretability/</link>
       <pubDate>Tue, 25 Feb 2025 15:08:53 +0800</pubDate>
-      <guid>https://Siriuslala.github.io/tags/mechanistic-interpretability/</guid>
+      <guid>http://localhost:1313/tags/mechanistic-interpretability/</guid>
       <description></description>
     </item>
     <item>
       <title>Multimodal</title>
-      <link>https://Siriuslala.github.io/tags/multimodal/</link>
+      <link>http://localhost:1313/tags/multimodal/</link>
       <pubDate>Tue, 25 Feb 2025 15:08:53 +0800</pubDate>
-      <guid>https://Siriuslala.github.io/tags/multimodal/</guid>
+      <guid>http://localhost:1313/tags/multimodal/</guid>
       <description></description>
     </item>
     <item>
       <title>Circuit</title>
-      <link>https://Siriuslala.github.io/tags/circuit/</link>
+      <link>http://localhost:1313/tags/circuit/</link>
       <pubDate>Wed, 05 Feb 2025 16:22:33 +0800</pubDate>
-      <guid>https://Siriuslala.github.io/tags/circuit/</guid>
+      <guid>http://localhost:1313/tags/circuit/</guid>
       <description></description>
     </item>
     <item>
       <title>Linguistics</title>
-      <link>https://Siriuslala.github.io/tags/linguistics/</link>
+      <link>http://localhost:1313/tags/linguistics/</link>
       <pubDate>Fri, 27 Sep 2024 17:15:10 +0800</pubDate>
-      <guid>https://Siriuslala.github.io/tags/linguistics/</guid>
+      <guid>http://localhost:1313/tags/linguistics/</guid>
       <description></description>
     </item>
     <item>
       <title>Features</title>
-      <link>https://Siriuslala.github.io/tags/features/</link>
+      <link>http://localhost:1313/tags/features/</link>
       <pubDate>Thu, 29 Aug 2024 15:51:59 +0800</pubDate>
-      <guid>https://Siriuslala.github.io/tags/features/</guid>
+      <guid>http://localhost:1313/tags/features/</guid>
       <description></description>
     </item>
   </channel>

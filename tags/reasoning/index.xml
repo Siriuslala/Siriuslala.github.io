@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Reasoning on Siriuslala&#39;s Blog!</title>
-    <link>https://Siriuslala.github.io/tags/reasoning/</link>
+    <link>http://localhost:1313/tags/reasoning/</link>
     <description>Recent content in Reasoning on Siriuslala&#39;s Blog!</description>
     <image>
       <title>Siriuslala&#39;s Blog!</title>
-      <url>https://Siriuslala.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://Siriuslala.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.147.6</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Jun 2025 10:50:00 +0800</lastBuildDate>
-    <atom:link href="https://Siriuslala.github.io/tags/reasoning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/reasoning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thinking and Reasoning</title>
-      <link>https://Siriuslala.github.io/posts/thinking_and_reasoning/</link>
+      <link>http://localhost:1313/posts/thinking_and_reasoning/</link>
       <pubDate>Mon, 30 Jun 2025 10:50:00 +0800</pubDate>
-      <guid>https://Siriuslala.github.io/posts/thinking_and_reasoning/</guid>
+      <guid>http://localhost:1313/posts/thinking_and_reasoning/</guid>
       <description>&lt;h2 id=&#34;the-purpose-i-write-this-blog&#34;&gt;The Purpose I Write This Blog&lt;/h2&gt;
 &lt;p&gt;   Thinking models are crazily popualr nowadays. The first time I delved in this area was in September, 2023. Later I gradually forgetted this area, until Deepseek came to life. I want to keep to collect information about LLM reasoning and share my thoughts here.&lt;/p&gt;
 &lt;h3 id=&#34;thinking-models&#34;&gt;Thinking Models&lt;/h3&gt;

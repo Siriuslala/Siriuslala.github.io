@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Agent on Siriuslala&#39;s Blog!</title>
-    <link>https://Siriuslala.github.io/tags/agent/</link>
+    <link>http://localhost:1313/tags/agent/</link>
     <description>Recent content in Agent on Siriuslala&#39;s Blog!</description>
     <image>
       <title>Siriuslala&#39;s Blog!</title>
-      <url>https://Siriuslala.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://Siriuslala.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.147.6</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Jun 2025 13:01:09 +0800</lastBuildDate>
-    <atom:link href="https://Siriuslala.github.io/tags/agent/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/agent/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LLM Agents</title>
-      <link>https://Siriuslala.github.io/posts/llm-agent/</link>
+      <link>http://localhost:1313/posts/llm-agent/</link>
       <pubDate>Sat, 28 Jun 2025 13:01:09 +0800</pubDate>
-      <guid>https://Siriuslala.github.io/posts/llm-agent/</guid>
+      <guid>http://localhost:1313/posts/llm-agent/</guid>
       <description>&lt;h2 id=&#34;the-purpose-i-write-this-blog&#34;&gt;The Purpose I Write This Blog&lt;/h2&gt;
 &lt;p&gt;   LLM-based agent is gonna change the world. Amazing agent systems have been created to change our life. Since I was once in a team that aimed to build advanced agents for the control of digital devices and for which I was impressed, I want to keep to collect information about LLM agents and share my thoughts here.&lt;/p&gt;
 &lt;h2 id=&#34;resource&#34;&gt;Resource&lt;/h2&gt;

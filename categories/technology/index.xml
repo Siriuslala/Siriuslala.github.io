@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Technology on Siriuslala&#39;s Blog!</title>
-    <link>https://Siriuslala.github.io/categories/technology/</link>
+    <link>http://localhost:1313/categories/technology/</link>
     <description>Recent content in Technology on Siriuslala&#39;s Blog!</description>
     <image>
       <title>Siriuslala&#39;s Blog!</title>
-      <url>https://Siriuslala.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://Siriuslala.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.147.6</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Jun 2025 10:50:00 +0800</lastBuildDate>
-    <atom:link href="https://Siriuslala.github.io/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thinking and Reasoning</title>
-      <link>https://Siriuslala.github.io/posts/thinking_and_reasoning/</link>
+      <link>http://localhost:1313/posts/thinking_and_reasoning/</link>
       <pubDate>Mon, 30 Jun 2025 10:50:00 +0800</pubDate>
-      <guid>https://Siriuslala.github.io/posts/thinking_and_reasoning/</guid>
+      <guid>http://localhost:1313/posts/thinking_and_reasoning/</guid>
       <description>&lt;h2 id=&#34;the-purpose-i-write-this-blog&#34;&gt;The Purpose I Write This Blog&lt;/h2&gt;
 &lt;p&gt;   Thinking models are crazily popualr nowadays. The first time I delved in this area was in September, 2023. Later I gradually forgetted this area, until Deepseek came to life. I want to keep to collect information about LLM reasoning and share my thoughts here.&lt;/p&gt;
 &lt;h3 id=&#34;thinking-models&#34;&gt;Thinking Models&lt;/h3&gt;
@@ -58,9 +58,9 @@
     </item>
     <item>
       <title>LLM Agents</title>
-      <link>https://Siriuslala.github.io/posts/llm-agent/</link>
+      <link>http://localhost:1313/posts/llm-agent/</link>
       <pubDate>Sat, 28 Jun 2025 13:01:09 +0800</pubDate>
-      <guid>https://Siriuslala.github.io/posts/llm-agent/</guid>
+      <guid>http://localhost:1313/posts/llm-agent/</guid>
       <description>&lt;h2 id=&#34;the-purpose-i-write-this-blog&#34;&gt;The Purpose I Write This Blog&lt;/h2&gt;
 &lt;p&gt;   LLM-based agent is gonna change the world. Amazing agent systems have been created to change our life. Since I was once in a team that aimed to build advanced agents for the control of digital devices and for which I was impressed, I want to keep to collect information about LLM agents and share my thoughts here.&lt;/p&gt;
 &lt;h2 id=&#34;resource&#34;&gt;Resource&lt;/h2&gt;
@@ -147,9 +147,9 @@
     </item>
     <item>
       <title>Interpretability for Multimodal Models</title>
-      <link>https://Siriuslala.github.io/posts/mm_interp/</link>
+      <link>http://localhost:1313/posts/mm_interp/</link>
       <pubDate>Tue, 25 Feb 2025 15:08:53 +0800</pubDate>
-      <guid>https://Siriuslala.github.io/posts/mm_interp/</guid>
+      <guid>http://localhost:1313/posts/mm_interp/</guid>
       <description>&lt;p&gt;&amp;#x1f4a1;
 This post is initially focused on interpretability for multimodal models, while later a lot of papers in other fields are included, just for convenience.&lt;/p&gt;
 &lt;h2 id=&#34;resource&#34;&gt;Resource&lt;/h2&gt;
@@ -237,19 +237,19 @@ This post is initially focused on interpretability for multimodal models, while
     </item>
     <item>
       <title>Circuit-tuning: A Mechanistic Approach for Identifying Parameter Redundancy and Fine-tuning Neural Networks</title>
-      <link>https://Siriuslala.github.io/posts/circuit_tuning/</link>
+      <link>http://localhost:1313/posts/circuit_tuning/</link>
       <pubDate>Wed, 05 Feb 2025 16:22:33 +0800</pubDate>
-      <guid>https://Siriuslala.github.io/posts/circuit_tuning/</guid>
+      <guid>http://localhost:1313/posts/circuit_tuning/</guid>
       <description>&lt;!-- The [paper](/pdfs/circuit_tuning) is here. --&gt;
 &lt;p&gt;ArXiv(old version): &lt;a href=&#34;https://arxiv.org/pdf/2502.06106&#34;&gt;https://arxiv.org/pdf/2502.06106&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Possible Research Areas in Mechanistic Interpretability</title>
-      <link>https://Siriuslala.github.io/posts/mech_interp_research/</link>
+      <link>http://localhost:1313/posts/mech_interp_research/</link>
       <pubDate>Fri, 06 Sep 2024 22:52:16 +0800</pubDate>
-      <guid>https://Siriuslala.github.io/posts/mech_interp_research/</guid>
+      <guid>http://localhost:1313/posts/mech_interp_research/</guid>
       <description>&lt;p&gt;&amp;#x1f4a1;
-This post is mainly focused on text models. For multi-modal models, please refer to &lt;a href=&#34;https://Siriuslala.github.io/posts/mm_interp/&#34;&gt;this post&lt;/a&gt;.&lt;/p&gt;
+This post is mainly focused on text models. For multi-modal models, please refer to &lt;a href=&#34;http://localhost:1313/posts/mm_interp/&#34;&gt;this post&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;the-purpose-i-write-this-blog&#34;&gt;The Purpose I Write This Blog&lt;/h2&gt;
 &lt;p&gt;   To get started in mech interp research, we need to have a macro understanding of this area. So I write this blog as a summarization of this field to help you and me choose a research topic.&lt;/p&gt;
 &lt;h2 id=&#34;circuit-discovery&#34;&gt;Circuit Discovery&lt;/h2&gt;
@@ -305,9 +305,9 @@ This post is mainly focused on text models. For multi-modal models, please refer
     </item>
     <item>
       <title>Exploring Emotional Features in GPT2-Small</title>
-      <link>https://Siriuslala.github.io/posts/happy_feats/</link>
+      <link>http://localhost:1313/posts/happy_feats/</link>
       <pubDate>Thu, 29 Aug 2024 15:51:59 +0800</pubDate>
-      <guid>https://Siriuslala.github.io/posts/happy_feats/</guid>
+      <guid>http://localhost:1313/posts/happy_feats/</guid>
       <description>&lt;p&gt;&amp;#x1f3b6;Code in this post can be found at &lt;a href=&#34;https://github.com/Siriuslala/saeExploration/blob/main/multilingual_study.ipynb&#34;&gt;the jupyter notebook in my &amp;ldquo;saeExploration&amp;rdquo; repo&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;find-features-that-reflect-positive-emotions&#34;&gt;Find features that reflect positive emotions&lt;/h2&gt;
 &lt;p&gt;To find the features related to a specific emotion, I write five sentences containing the key words for each emotion. For example, for happy emotions I have:&lt;/p&gt;
@@ -331,9 +331,9 @@ This post is mainly focused on text models. For multi-modal models, please refer
     </item>
     <item>
       <title>A Brief Introduction to Mechanistic Interpretability Research</title>
-      <link>https://Siriuslala.github.io/posts/mech_interp_resource/</link>
+      <link>http://localhost:1313/posts/mech_interp_resource/</link>
       <pubDate>Wed, 28 Aug 2024 13:12:25 +0800</pubDate>
-      <guid>https://Siriuslala.github.io/posts/mech_interp_resource/</guid>
+      <guid>http://localhost:1313/posts/mech_interp_resource/</guid>
       <description>&lt;p&gt;&amp;#x26a0;&amp;#xfe0f; &lt;font color=&#34;red&#34;&gt;&lt;em&gt;&lt;strong&gt;Warnings&lt;/strong&gt;&lt;/em&gt;&lt;/font&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;This post was written when I first delved into this area, and it hasn&amp;rsquo;t been updated for a long time. Thus there might be a lot of errors.&lt;/em&gt;&lt;/li&gt;
@@ -341,7 +341,7 @@ This post is mainly focused on text models. For multi-modal models, please refer
 &lt;li&gt;&lt;em&gt;I&amp;rsquo;m still interested in interpretability and its applications. I&amp;rsquo;ll write something new and interesting later ~&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&amp;#x1f4a1;
-This post is accompanied with &lt;a href=&#34;https://Siriuslala.github.io/posts/mech_interp_research/&#34;&gt;another post&lt;/a&gt;, which contains specific content in this area.&lt;/p&gt;</description>
+This post is accompanied with &lt;a href=&#34;http://localhost:1313/posts/mech_interp_research/&#34;&gt;another post&lt;/a&gt;, which contains specific content in this area.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
