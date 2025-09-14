@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Features on Siriuslala&#39;s Blog!</title>
-    <link>http://localhost:1313/tags/features/</link>
+    <link>https://Siriuslala.github.io/tags/features/</link>
     <description>Recent content in Features on Siriuslala&#39;s Blog!</description>
     <image>
       <title>Siriuslala&#39;s Blog!</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://Siriuslala.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://Siriuslala.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.147.6</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 Aug 2024 15:51:59 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/features/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Siriuslala.github.io/tags/features/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exploring Emotional Features in GPT2-Small</title>
-      <link>http://localhost:1313/posts/happy_feats/</link>
+      <link>https://Siriuslala.github.io/posts/happy_feats/</link>
       <pubDate>Thu, 29 Aug 2024 15:51:59 +0800</pubDate>
-      <guid>http://localhost:1313/posts/happy_feats/</guid>
+      <guid>https://Siriuslala.github.io/posts/happy_feats/</guid>
       <description>&lt;p&gt;&amp;#x1f3b6;Code in this post can be found at &lt;a href=&#34;https://github.com/Siriuslala/saeExploration/blob/main/multilingual_study.ipynb&#34;&gt;the jupyter notebook in my &amp;ldquo;saeExploration&amp;rdquo; repo&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;find-features-that-reflect-positive-emotions&#34;&gt;Find features that reflect positive emotions&lt;/h2&gt;
 &lt;p&gt;To find the features related to a specific emotion, I write five sentences containing the key words for each emotion. For example, for happy emotions I have:&lt;/p&gt;

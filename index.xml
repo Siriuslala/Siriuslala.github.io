@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Siriuslala&#39;s Blog!</title>
-    <link>http://localhost:1313/</link>
+    <link>https://Siriuslala.github.io/</link>
     <description>Recent content on Siriuslala&#39;s Blog!</description>
     <image>
       <title>Siriuslala&#39;s Blog!</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://Siriuslala.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://Siriuslala.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.147.6</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Jun 2025 10:50:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Siriuslala.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thinking and Reasoning</title>
-      <link>http://localhost:1313/posts/thinking_and_reasoning/</link>
+      <link>https://Siriuslala.github.io/posts/thinking_and_reasoning/</link>
       <pubDate>Mon, 30 Jun 2025 10:50:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/thinking_and_reasoning/</guid>
+      <guid>https://Siriuslala.github.io/posts/thinking_and_reasoning/</guid>
       <description>&lt;h2 id=&#34;the-purpose-i-write-this-blog&#34;&gt;The Purpose I Write This Blog&lt;/h2&gt;
 &lt;p&gt;   Thinking models are crazily popualr nowadays. The first time I delved in this area was in September, 2023. Later I gradually forgetted this area, until Deepseek came to life. I want to keep to collect information about LLM reasoning and share my thoughts here.&lt;/p&gt;
 &lt;h3 id=&#34;thinking-models&#34;&gt;Thinking Models&lt;/h3&gt;
@@ -58,9 +58,9 @@
     </item>
     <item>
       <title>LLM Agents</title>
-      <link>http://localhost:1313/posts/llm-agent/</link>
+      <link>https://Siriuslala.github.io/posts/llm-agent/</link>
       <pubDate>Sat, 28 Jun 2025 13:01:09 +0800</pubDate>
-      <guid>http://localhost:1313/posts/llm-agent/</guid>
+      <guid>https://Siriuslala.github.io/posts/llm-agent/</guid>
       <description>&lt;h2 id=&#34;the-purpose-i-write-this-blog&#34;&gt;The Purpose I Write This Blog&lt;/h2&gt;
 &lt;p&gt;   LLM-based agent is gonna change the world. Amazing agent systems have been created to change our life. Since I was once in a team that aimed to build advanced agents for the control of digital devices and for which I was impressed, I want to keep to collect information about LLM agents and share my thoughts here.&lt;/p&gt;
 &lt;h2 id=&#34;resource&#34;&gt;Resource&lt;/h2&gt;
@@ -146,87 +146,10 @@
 &lt;p&gt;papers&lt;/p&gt;</description>
     </item>
     <item>
-      <title>My_research_interest2</title>
-      <link>http://localhost:1313/posts/my_research_interest2/</link>
-      <pubDate>Fri, 18 Apr 2025 15:02:36 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my_research_interest2/</guid>
-      <description>&lt;h2 id=&#34;traceability-tool&#34;&gt;Traceability tool&lt;/h2&gt;
-&lt;h3 id=&#34;难点&#34;&gt;难点&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;如何绕过 attention ?
-&lt;ul&gt;
-&lt;li&gt;next token 直接由 last token 的 last hidden states 生成，而 last hidden states 是上游所有 attention 和 MLP 的输出的叠加；&lt;/li&gt;
-&lt;li&gt;溯源的目标是看 next token 与序列中哪些历史 token 有关，换句话说，就是看哪些历史 token 的信息流入了 last token 的 hidden state；&lt;/li&gt;
-&lt;li&gt;Transformer 中唯一能实现 token 间信息交互的组件，就是 attention，所以 attention 也需要考虑；
-&lt;ul&gt;
-&lt;li&gt;QK circuit 告诉模型要关注什么信息；OV circuit 告诉模型要将哪些信息放到输出里&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;不过，attention 的信息已经包含在了 last token 的 hidden states 中，如果能够找到一种方法，从 hidden states 中分解出历史 token 的信息，那就可以实现溯源定位&lt;/li&gt;
-&lt;li&gt;可以的方法是，看历史 token 的 hidden states 是否在 last token 的 hidden states 中体现。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;多模态模型里图像信息会集中到 |&amp;lt;vision_end&amp;gt;|
-&lt;ul&gt;
-&lt;li&gt;MMLM 里图像信息在浅层流动到文本，而在深层基本不会发挥作用 (受到的 attention 很少)&lt;/li&gt;
-&lt;li&gt;如何&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;可以参考的&#34;&gt;可以参考的&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;information flow&lt;/li&gt;
-&lt;li&gt;attention block 方法&lt;/li&gt;
-&lt;li&gt;IOI, sv disagreement&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>My_research_interest1</title>
-      <link>http://localhost:1313/posts/my_research_interest1/</link>
-      <pubDate>Tue, 01 Apr 2025 15:50:13 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my_research_interest1/</guid>
-      <description>&lt;h2 id=&#34;mm-interp&#34;&gt;MM Interp&lt;/h2&gt;
-&lt;h3 id=&#34;vision-language-alignment-in-vlm&#34;&gt;vision-language alignment in VLM&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;vision language 语义对齐&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;信息交互&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;位置编码，patch 顺序&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;现有的 VLM 可解释性研究&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;dogit lens
-&lt;ul&gt;
-&lt;li&gt;MATS 的项目&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;！VLM 里的 causal tracing&lt;/li&gt;
-&lt;li&gt;VLM 里的信息处理：Towards interpreting visual information processing in vision-language models
-&lt;ul&gt;
-&lt;li&gt;通过 logit lens 解码视觉 token，发现与语言对齐&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;信息流动
-&lt;ul&gt;
-&lt;li&gt;通过 attention 阻断&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;问题&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Interpretability for Multimodal Models</title>
-      <link>http://localhost:1313/posts/mm_interp/</link>
+      <link>https://Siriuslala.github.io/posts/mm_interp/</link>
       <pubDate>Tue, 25 Feb 2025 15:08:53 +0800</pubDate>
-      <guid>http://localhost:1313/posts/mm_interp/</guid>
+      <guid>https://Siriuslala.github.io/posts/mm_interp/</guid>
       <description>&lt;p&gt;&amp;#x1f4a1;
 This post is initially focused on interpretability for multimodal models, while later a lot of papers in other fields are included, just for convenience.&lt;/p&gt;
 &lt;h2 id=&#34;resource&#34;&gt;Resource&lt;/h2&gt;
@@ -314,74 +237,29 @@ This post is initially focused on interpretability for multimodal models, while
     </item>
     <item>
       <title>Circuit-tuning: A Mechanistic Approach for Identifying Parameter Redundancy and Fine-tuning Neural Networks</title>
-      <link>http://localhost:1313/posts/circuit_tuning/</link>
+      <link>https://Siriuslala.github.io/posts/circuit_tuning/</link>
       <pubDate>Wed, 05 Feb 2025 16:22:33 +0800</pubDate>
-      <guid>http://localhost:1313/posts/circuit_tuning/</guid>
+      <guid>https://Siriuslala.github.io/posts/circuit_tuning/</guid>
       <description>&lt;!-- The [paper](/pdfs/circuit_tuning) is here. --&gt;
 &lt;p&gt;ArXiv(old version): &lt;a href=&#34;https://arxiv.org/pdf/2502.06106&#34;&gt;https://arxiv.org/pdf/2502.06106&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>面经</title>
-      <link>http://localhost:1313/posts/%E9%9D%A2%E7%BB%8F/</link>
-      <pubDate>Sun, 13 Oct 2024 12:06:08 +0800</pubDate>
-      <guid>http://localhost:1313/posts/%E9%9D%A2%E7%BB%8F/</guid>
-      <description>&lt;h2 id=&#34;国外&#34;&gt;国外&lt;/h2&gt;
-&lt;h3 id=&#34;anthropic-mats&#34;&gt;Anthropic (MATS)&lt;/h3&gt;
-&lt;p&gt;  MATS 项目里 Anthropic 的 mentors 发起的 coding screen，不是Leetcode算法题，而是一个小的工程项目。项目一般是要实现一个系统（一个类）的功能（类的属性及方法），只涉及逻辑上的，不会涉及具体的前后端，也就是说只要有 Python 编程基础即可（MATS的 coding screen 只允许 Python），无需掌握特定领域的知识（不涉及第三方库的使用）。&lt;br&gt;
-  我参加过两次（因为第一次信息上传有误，所以重新申请了一次），第一次是写一个员工管理系统，第二次是写一个银行账户管理系统，大同小异。这里我以银行账户管理系统为例进行介绍。 &lt;br&gt;
-  限时 1.5h 的 coding screen 分为4个 level，每一个 level 需要用到前面 level 的内容，也就是一步一步实现整个系统，难度依次递增。&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>一些语言学的梗和有意思的知识</title>
-      <link>http://localhost:1313/posts/%E4%B8%80%E4%BA%9B%E8%AF%AD%E8%A8%80%E5%AD%A6%E7%9A%84%E6%A2%97%E5%92%8C%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84%E7%9F%A5%E8%AF%86/</link>
+      <link>https://Siriuslala.github.io/posts/%E4%B8%80%E4%BA%9B%E8%AF%AD%E8%A8%80%E5%AD%A6%E7%9A%84%E6%A2%97%E5%92%8C%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84%E7%9F%A5%E8%AF%86/</link>
       <pubDate>Fri, 27 Sep 2024 17:15:10 +0800</pubDate>
-      <guid>http://localhost:1313/posts/%E4%B8%80%E4%BA%9B%E8%AF%AD%E8%A8%80%E5%AD%A6%E7%9A%84%E6%A2%97%E5%92%8C%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84%E7%9F%A5%E8%AF%86/</guid>
+      <guid>https://Siriuslala.github.io/posts/%E4%B8%80%E4%BA%9B%E8%AF%AD%E8%A8%80%E5%AD%A6%E7%9A%84%E6%A2%97%E5%92%8C%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84%E7%9F%A5%E8%AF%86/</guid>
       <description>&lt;p&gt;This post is written in Chinese. If you don&amp;rsquo;t know Chinese, you can learn it lol. (Sorry for this because simply translating the post into English may not be enough for you to understand).&lt;/p&gt;
 &lt;h2 id=&#34;语言学乐子&#34;&gt;语言学乐子&lt;/h2&gt;
 &lt;h3 id=&#34;皮钦语-pidgin&#34;&gt;皮钦语 (pidgin)&lt;/h3&gt;
 &lt;p&gt;大家对那些 1.言语中不时夹杂着英文单词 2.装/凡尔赛 的人表现出一种厌恶。例如，下面是某恋综里的一段留子对话的名场面：&lt;/p&gt;</description>
     </item>
     <item>
-      <title>My research interests</title>
-      <link>http://localhost:1313/posts/my_research_interests/</link>
-      <pubDate>Fri, 27 Sep 2024 17:07:06 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my_research_interests/</guid>
-      <description>&lt;h2 id=&#34;mechanistic-interpretability&#34;&gt;mechanistic interpretability&lt;/h2&gt;
-&lt;h3 id=&#34;computational-linguistics&#34;&gt;Computational Linguistics&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Circuit-tuning: A Mechanistic Approach for Understanding Instrinsic Dimension and Fine-tuning Neural Networks
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;袁老师建议&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;理论
-&lt;ul&gt;
-&lt;li&gt;重新审视可解释性，如何给出一个漂亮的解释（思考mech interp局限性，是否可以突破一下）&lt;/li&gt;
-&lt;li&gt;上手实验，实践指导理论&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;实验
-&lt;ul&gt;
-&lt;li&gt;实验数据
-&lt;ul&gt;
-&lt;li&gt;因为目标不是提性能，所以可以设置一些独特的评价体系和指标，突出可解释性&lt;/li&gt;
-&lt;li&gt;因果推断的数据（hzy, xsy）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;为什么做这个？&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Possible Research Areas in Mechanistic Interpretability</title>
-      <link>http://localhost:1313/posts/mech_interp_research/</link>
+      <link>https://Siriuslala.github.io/posts/mech_interp_research/</link>
       <pubDate>Fri, 06 Sep 2024 22:52:16 +0800</pubDate>
-      <guid>http://localhost:1313/posts/mech_interp_research/</guid>
+      <guid>https://Siriuslala.github.io/posts/mech_interp_research/</guid>
       <description>&lt;p&gt;&amp;#x1f4a1;
-This post is mainly focused on text models. For multi-modal models, please refer to &lt;a href=&#34;http://localhost:1313/posts/mm_interp/&#34;&gt;this post&lt;/a&gt;.&lt;/p&gt;
+This post is mainly focused on text models. For multi-modal models, please refer to &lt;a href=&#34;https://Siriuslala.github.io/posts/mm_interp/&#34;&gt;this post&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;the-purpose-i-write-this-blog&#34;&gt;The Purpose I Write This Blog&lt;/h2&gt;
 &lt;p&gt;   To get started in mech interp research, we need to have a macro understanding of this area. So I write this blog as a summarization of this field to help you and me choose a research topic.&lt;/p&gt;
 &lt;h2 id=&#34;circuit-discovery&#34;&gt;Circuit Discovery&lt;/h2&gt;
@@ -437,9 +315,9 @@ This post is mainly focused on text models. For multi-modal models, please refer
     </item>
     <item>
       <title>Exploring Emotional Features in GPT2-Small</title>
-      <link>http://localhost:1313/posts/happy_feats/</link>
+      <link>https://Siriuslala.github.io/posts/happy_feats/</link>
       <pubDate>Thu, 29 Aug 2024 15:51:59 +0800</pubDate>
-      <guid>http://localhost:1313/posts/happy_feats/</guid>
+      <guid>https://Siriuslala.github.io/posts/happy_feats/</guid>
       <description>&lt;p&gt;&amp;#x1f3b6;Code in this post can be found at &lt;a href=&#34;https://github.com/Siriuslala/saeExploration/blob/main/multilingual_study.ipynb&#34;&gt;the jupyter notebook in my &amp;ldquo;saeExploration&amp;rdquo; repo&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;find-features-that-reflect-positive-emotions&#34;&gt;Find features that reflect positive emotions&lt;/h2&gt;
 &lt;p&gt;To find the features related to a specific emotion, I write five sentences containing the key words for each emotion. For example, for happy emotions I have:&lt;/p&gt;
@@ -463,9 +341,9 @@ This post is mainly focused on text models. For multi-modal models, please refer
     </item>
     <item>
       <title>A Brief Introduction to Mechanistic Interpretability Research</title>
-      <link>http://localhost:1313/posts/mech_interp_resource/</link>
+      <link>https://Siriuslala.github.io/posts/mech_interp_resource/</link>
       <pubDate>Wed, 28 Aug 2024 13:12:25 +0800</pubDate>
-      <guid>http://localhost:1313/posts/mech_interp_resource/</guid>
+      <guid>https://Siriuslala.github.io/posts/mech_interp_resource/</guid>
       <description>&lt;p&gt;&amp;#x26a0;&amp;#xfe0f; &lt;font color=&#34;red&#34;&gt;&lt;em&gt;&lt;strong&gt;Warnings&lt;/strong&gt;&lt;/em&gt;&lt;/font&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;This post was written when I first delved into this area, and it hasn&amp;rsquo;t been updated for a long time. Thus there might be a lot of errors.&lt;/em&gt;&lt;/li&gt;
@@ -473,28 +351,21 @@ This post is mainly focused on text models. For multi-modal models, please refer
 &lt;li&gt;&lt;em&gt;I&amp;rsquo;m still interested in interpretability and its applications. I&amp;rsquo;ll write something new and interesting later ~&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&amp;#x1f4a1;
-This post is accompanied with &lt;a href=&#34;http://localhost:1313/posts/mech_interp_research/&#34;&gt;another post&lt;/a&gt;, which contains specific content in this area.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Tue, 27 Aug 2024 15:52:14 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description></description>
+This post is accompanied with &lt;a href=&#34;https://Siriuslala.github.io/posts/mech_interp_research/&#34;&gt;another post&lt;/a&gt;, which contains specific content in this area.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Myself</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://Siriuslala.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://Siriuslala.github.io/about/</guid>
       <description>About myself</description>
     </item>
     <item>
       <title>Circuit-tuning: A Mechanistic Approach for Identifying Parameter Redundancy and Fine-tuning Neural Networks</title>
-      <link>http://localhost:1313/pdfs/circuit_tuning/</link>
+      <link>https://Siriuslala.github.io/pdfs/circuit_tuning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pdfs/circuit_tuning/</guid>
-      <description>&lt;script crossorigin=&#34;anonymous&#34; src=&#34;http://localhost:1313/pdf-js/build/pdf.js&#34;&gt;&lt;/script&gt;
+      <guid>https://Siriuslala.github.io/pdfs/circuit_tuning/</guid>
+      <description>&lt;script crossorigin=&#34;anonymous&#34; src=&#34;https://Siriuslala.github.io/pdf-js/build/pdf.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;style&gt;
@@ -748,17 +619,17 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-f
     </item>
     <item>
       <title>faq</title>
-      <link>http://localhost:1313/faq/</link>
+      <link>https://Siriuslala.github.io/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/faq/</guid>
+      <guid>https://Siriuslala.github.io/faq/</guid>
       <description>faq</description>
     </item>
     <item>
       <title>Yueyan Li</title>
-      <link>http://localhost:1313/pdfs/helper/</link>
+      <link>https://Siriuslala.github.io/pdfs/helper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pdfs/helper/</guid>
-      <description>&lt;script crossorigin=&#34;anonymous&#34; src=&#34;http://localhost:1313/pdf-js/build/pdf.js&#34;&gt;&lt;/script&gt;
+      <guid>https://Siriuslala.github.io/pdfs/helper/</guid>
+      <description>&lt;script crossorigin=&#34;anonymous&#34; src=&#34;https://Siriuslala.github.io/pdf-js/build/pdf.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;style&gt;
