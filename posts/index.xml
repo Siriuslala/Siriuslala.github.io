@@ -201,6 +201,7 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;RL v.s. SFT&lt;/strong&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2509.21128&#34;&gt;RL Squeezes, SFT Expands: A Comparative Study of Reasoning LLMs&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/25410252053&#34;&gt;3.2 统一视角理解从 SFT 到 RL&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2503.01067&#34;&gt;All Roads Lead to Likelihood: The Value of Reinforcement Learning in Fine-Tuning&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2506.23235&#34;&gt;Generalist Reward Models: Found Inside Large Language Models&lt;/a&gt;&lt;/li&gt;
@@ -413,6 +414,12 @@ This post is initially focused on interpretability for multimodal models, while
 &lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.alignmentforum.org/posts/kobJymvvcvhbjWFKe/laying-the-foundations-for-vision-and-multimodal-mechanistic&#34;&gt;(dogit lens) Laying the Foundations for Vision and Multimodal Mechanistic Interpretability &amp;amp; Open Problems&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2203.14680&#34;&gt;Transformer feed-forward layers build predictions by promoting concepts in the vocabulary space&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2509.25584&#34;&gt;Skip-It? Theoretical Conditions for Layer Skipping in Vision-Language Models&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;tools&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/compling-wat/vlm-lens&#34;&gt;VLM-Lens&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;information flow&lt;/strong&gt;
@@ -427,6 +434,7 @@ This post is initially focused on interpretability for multimodal models, while
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;analyses on MLLMs&lt;/strong&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2509.11986&#34;&gt;Lost in Embeddings: Information Loss in Vision–Language Models&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2503.02199&#34;&gt;Words or Vision: Do Vision-Language Models Have Blind Faith in Text?&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2502.15969&#34;&gt;Forgotten Polygons: Multimodal Large Language Models are Shape-Blind&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2309.16588&#34;&gt;Vision Transformers Need Registers&lt;/a&gt;&lt;/li&gt;

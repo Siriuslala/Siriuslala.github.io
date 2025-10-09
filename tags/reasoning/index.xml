@@ -201,6 +201,7 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;RL v.s. SFT&lt;/strong&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2509.21128&#34;&gt;RL Squeezes, SFT Expands: A Comparative Study of Reasoning LLMs&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/25410252053&#34;&gt;3.2 统一视角理解从 SFT 到 RL&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2503.01067&#34;&gt;All Roads Lead to Likelihood: The Value of Reinforcement Learning in Fine-Tuning&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2506.23235&#34;&gt;Generalist Reward Models: Found Inside Large Language Models&lt;/a&gt;&lt;/li&gt;
