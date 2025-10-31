@@ -97,6 +97,7 @@ This post is initially focused on interpretability for multimodal models, while
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;analyses on MLLMs&lt;/strong&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2509.26625&#34;&gt;Learning to See Before Seeing: Demystifying LLM Visual Priors from Language Pre-training&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2509.11986&#34;&gt;Lost in Embeddings: Information Loss in Vision–Language Models&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2503.02199&#34;&gt;Words or Vision: Do Vision-Language Models Have Blind Faith in Text?&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2502.15969&#34;&gt;Forgotten Polygons: Multimodal Large Language Models are Shape-Blind&lt;/a&gt;&lt;/li&gt;

@@ -122,12 +122,14 @@
 &lt;h2 id=&#34;evaluation&#34;&gt;Evaluation&lt;/h2&gt;
 &lt;h3 id=&#34;dataset&#34;&gt;dataset&lt;/h3&gt;
 &lt;h2 id=&#34;analyses&#34;&gt;Analyses&lt;/h2&gt;
-&lt;h3 id=&#34;analyses-1&#34;&gt;analyses&lt;/h3&gt;
+&lt;h3 id=&#34;implicit-reasoning&#34;&gt;implicit reasoning&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2508.08221&#34;&gt;Part I: Tricks or Traps? A Deep Dive into RL for LLM Reasoning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2509.23365&#34;&gt;Emergence of Superposition: Unveiling the Training Dynamics of Chain of Continuous Thought&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;interpretability&#34;&gt;interpretability&lt;/h3&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2510.11495&#34;&gt;How Reinforcement Learning After Next-Token Prediction Facilitates Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2510.07364&#34;&gt;Base Models Know How to Reason, Thinking Models Learn When&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2506.05744&#34;&gt;Topology of Reasoning: Understanding Large Reasoning Models through Reasoning Graph Properties&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2507.00432&#34;&gt;Does Math Reasoning Improve General LLM Capabilities? Understanding Transferability of LLM Reasoning&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2506.02867&#34;&gt;Demystifying Reasoning Dynamics with Mutual Information: Thinking Tokens are Information Peaks in LLM Reasoning&lt;/a&gt;&lt;/li&gt;
@@ -184,7 +186,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;analyses-2&#34;&gt;analyses&lt;/h3&gt;
+&lt;h3 id=&#34;analyses-1&#34;&gt;analyses&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;RL training&lt;/strong&gt;
 &lt;ul&gt;
@@ -201,6 +203,7 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;RL v.s. SFT&lt;/strong&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2501.17161&#34;&gt;Sft memorizes, rl generalizes: A comparative study of foundation model post-training&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2509.21128&#34;&gt;RL Squeezes, SFT Expands: A Comparative Study of Reasoning LLMs&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/25410252053&#34;&gt;3.2 统一视角理解从 SFT 到 RL&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2503.01067&#34;&gt;All Roads Lead to Likelihood: The Value of Reinforcement Learning in Fine-Tuning&lt;/a&gt;&lt;/li&gt;
@@ -434,6 +437,7 @@ This post is initially focused on interpretability for multimodal models, while
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;analyses on MLLMs&lt;/strong&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2509.26625&#34;&gt;Learning to See Before Seeing: Demystifying LLM Visual Priors from Language Pre-training&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2509.11986&#34;&gt;Lost in Embeddings: Information Loss in Vision–Language Models&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2503.02199&#34;&gt;Words or Vision: Do Vision-Language Models Have Blind Faith in Text?&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2502.15969&#34;&gt;Forgotten Polygons: Multimodal Large Language Models are Shape-Blind&lt;/a&gt;&lt;/li&gt;
