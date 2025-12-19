@@ -132,7 +132,8 @@ This post is mainly focused on text models. For multi-modal models, please refer
 &lt;h2 id=&#34;circuit-discovery&#34;&gt;Circuit Discovery&lt;/h2&gt;
 &lt;h3 id=&#34;methods&#34;&gt;Methods&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;basic&lt;/strong&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;basic&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;activation patching (causal mediation/interchange interventions&amp;hellip;)&lt;/li&gt;
 &lt;li&gt;path patching&lt;/li&gt;
@@ -146,39 +147,19 @@ This post is mainly focused on text models. For multi-modal models, please refer
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/1905.09418&#34;&gt;Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2202.05262&#34;&gt;(ROME) Locating and Editing Factual Associations in GPT&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.neelnanda.io/mechanistic-interpretability/attribution-patching&#34;&gt;Attribution patching: Activation patching at industrial scale&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2304.14997&#34;&gt;(ACDC) Towards Automated Circuit Discovery for Mechanistic Interpretability&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2310.10348&#34;&gt;Attribution Patching Outperforms Automated Circuit Discovery&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2403.00745&#34;&gt;AtP*: An efficient and scalable method for localizing llm behaviour to components&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://proceedings.neurips.cc/paper/2020/file/92650b2e92217715fe312e6fa7b90d82-Paper.pdf&#34;&gt;Investigating gender bias in language models using causal mediation analysis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2202.05262&#34;&gt;(ROME) Locating and Editing Factual Associations in GPT&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.alignmentforum.org/posts/JvZhhzycHu2Yd57RN/causal-scrubbing-a-method-for-rigorously-testing&#34;&gt;Causal Scrubbing: a method for rigorously testing interpretability hypotheses&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.neelnanda.io/mechanistic-interpretability/attribution-patching&#34;&gt;(AtP) Attribution patching: Activation patching at industrial scale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2403.00745&#34;&gt;AtP*: An efficient and scalable method for localizing llm behaviour to components&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2304.14997&#34;&gt;(ACDC) Towards Automated Circuit Discovery for Mechanistic Interpretability&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2310.10348&#34;&gt;(EAP) Attribution Patching Outperforms Automated Circuit Discovery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2403.17806&#34;&gt;(EAP-IG) Have faith in faithfulness: Going beyond circuit overlap when finding model mechanisms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2309.16042&#34;&gt;Towards Best Practices of Activation Patching in Language Models: Metrics and Methods&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;new&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;Using SAE
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2403.19647&#34;&gt;Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2405.13868&#34;&gt;Automatically Identifying Local and Global Circuits with Linear Computation Graphs&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Contextual Decomposition
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2407.00886&#34;&gt;Mechanistic Interpretation through Contextual Decomposition in Transformers&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Edge Pruning ?
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2406.16778&#34;&gt;Finding Transformer Circuits with Edge Pruning&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2407.03779&#34;&gt;Functional Faithfulness in the Wild: Circuit Discovery with Differentiable Computation Graph Pruning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;evaluation&#34;&gt;Evaluation&lt;/h3&gt;
-&lt;p&gt;lack of ground truth&lt;/p&gt;</description>
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;new&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Exploring Emotional Features in GPT2-Small</title>
@@ -214,7 +195,9 @@ This post is mainly focused on text models. For multi-modal models, please refer
       <description>&lt;p&gt;&amp;#x26a0;&amp;#xfe0f; &lt;font color=&#34;red&#34;&gt;&lt;em&gt;&lt;strong&gt;Warnings&lt;/strong&gt;&lt;/em&gt;&lt;/font&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;This post was written when I first delved into this area, and it hasn&amp;rsquo;t been updated for a long time. Thus there might be a lot of errors.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Now I&amp;rsquo;ve changed my attitude to this area. The area is not well-defined, and most of the research in this area is of low quality and is not appealing to me. Besides, I think the study of interpretability should be applied to pratical use, though we can also study it for fun.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- * *Now I&#39;ve changed my attitude to this area. The area is not well-defined, and most of the research in this area is of low quality and is not appealing to me. Besides, I think the study of interpretability should be applied to pratical use, though we can also study it for fun.* --&gt;
+&lt;ul&gt;
 &lt;li&gt;&lt;em&gt;I&amp;rsquo;m still interested in interpretability and its applications. I&amp;rsquo;ll write something new and interesting later ~&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&amp;#x1f4a1;
