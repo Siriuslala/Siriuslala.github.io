@@ -147,15 +147,39 @@ This post is mainly focused on text models. For multi-modal models, please refer
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/1905.09418&#34;&gt;Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;what is circuit discovery?
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2309.16042&#34;&gt;Towards Best Practices of Activation Patching in Language Models: Metrics and Methods&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2404.15255&#34;&gt;How to use and interpret activation patching&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;representative work
+&lt;ul&gt;
+&lt;li&gt;activation patching
+&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://proceedings.neurips.cc/paper/2020/file/92650b2e92217715fe312e6fa7b90d82-Paper.pdf&#34;&gt;Investigating gender bias in language models using causal mediation analysis&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2202.05262&#34;&gt;(ROME) Locating and Editing Factual Associations in GPT&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.alignmentforum.org/posts/JvZhhzycHu2Yd57RN/causal-scrubbing-a-method-for-rigorously-testing&#34;&gt;Causal Scrubbing: a method for rigorously testing interpretability hypotheses&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.neelnanda.io/mechanistic-interpretability/attribution-patching&#34;&gt;(AtP) Attribution patching: Activation patching at industrial scale&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2403.00745&#34;&gt;AtP*: An efficient and scalable method for localizing llm behaviour to components&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;path patching
+&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2304.14997&#34;&gt;(ACDC) Towards Automated Circuit Discovery for Mechanistic Interpretability&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2310.10348&#34;&gt;(EAP) Attribution Patching Outperforms Automated Circuit Discovery&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2403.17806&#34;&gt;(EAP-IG) Have faith in faithfulness: Going beyond circuit overlap when finding model mechanisms&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2309.16042&#34;&gt;Towards Best Practices of Activation Patching in Language Models: Metrics and Methods&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2304.05969&#34;&gt;Localizing Model Behavior with Path Patching&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;distributed alignment search
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;(DAS) Finding Alignments Between Interpretable Causal Variables and Distributed Neural Representations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://proceedings.neurips.cc/paper_files/paper/2023/file/f6a8b109d4d4fd64c75e94aaf85d9697-Paper-Conference.pdf&#34;&gt;Interpretability at Scale: Identifying Causal Mechanisms in Alpaca&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
