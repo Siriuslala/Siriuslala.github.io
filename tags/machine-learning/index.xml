@@ -132,8 +132,7 @@ This post is mainly focused on text models. For multi-modal models, please refer
 &lt;h2 id=&#34;circuit-discovery&#34;&gt;Circuit Discovery&lt;/h2&gt;
 &lt;h3 id=&#34;methods&#34;&gt;Methods&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;basic&lt;/strong&gt;&lt;/p&gt;
+&lt;li&gt;&lt;strong&gt;basic&lt;/strong&gt;
 &lt;ul&gt;
 &lt;li&gt;activation patching (causal mediation/interchange interventions&amp;hellip;)&lt;/li&gt;
 &lt;li&gt;path patching&lt;/li&gt;
@@ -182,8 +181,31 @@ This post is mainly focused on text models. For multi-modal models, please refer
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;new&lt;/strong&gt;&lt;/p&gt;</description>
+&lt;li&gt;&lt;strong&gt;new&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Using SAE
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2403.19647&#34;&gt;Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2405.13868&#34;&gt;Automatically Identifying Local and Global Circuits with Linear Computation Graphs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Contextual Decomposition
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2407.00886&#34;&gt;Mechanistic Interpretation through Contextual Decomposition in Transformers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Edge Pruning ?
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2406.16778&#34;&gt;Finding Transformer Circuits with Edge Pruning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2407.03779&#34;&gt;Functional Faithfulness in the Wild: Circuit Discovery with Differentiable Computation Graph Pruning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;evaluation&#34;&gt;Evaluation&lt;/h3&gt;
+&lt;p&gt;lack of ground truth&lt;/p&gt;</description>
     </item>
     <item>
       <title>Exploring Emotional Features in GPT2-Small</title>
