@@ -203,6 +203,11 @@ This post is mainly focused on text models. For multi-modal models, please refer
 &lt;li&gt;&lt;a href=&#34;&#34;&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;attribution graph&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;see &lt;strong&gt;Applications&lt;/strong&gt; in the &lt;strong&gt;Dictionary Learning&lt;/strong&gt; section&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;evaluation&#34;&gt;Evaluation&lt;/h3&gt;
 &lt;p&gt;lack of ground truth&lt;/p&gt;</description>
