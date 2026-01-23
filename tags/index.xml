@@ -11,8 +11,22 @@
     </image>
     <generator>Hugo -- 0.147.6</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Jun 2025 10:50:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 21:21:39 +0800</lastBuildDate>
     <atom:link href="https://Siriuslala.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning</title>
+      <link>https://Siriuslala.github.io/tags/machine-learning/</link>
+      <pubDate>Fri, 23 Jan 2026 21:21:39 +0800</pubDate>
+      <guid>https://Siriuslala.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mechanistic Interpretability</title>
+      <link>https://Siriuslala.github.io/tags/mechanistic-interpretability/</link>
+      <pubDate>Fri, 23 Jan 2026 21:21:39 +0800</pubDate>
+      <guid>https://Siriuslala.github.io/tags/mechanistic-interpretability/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Reasoning</title>
       <link>https://Siriuslala.github.io/tags/reasoning/</link>
@@ -25,20 +39,6 @@
       <link>https://Siriuslala.github.io/tags/agent/</link>
       <pubDate>Sat, 28 Jun 2025 13:01:09 +0800</pubDate>
       <guid>https://Siriuslala.github.io/tags/agent/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Machine Learning</title>
-      <link>https://Siriuslala.github.io/tags/machine-learning/</link>
-      <pubDate>Tue, 25 Feb 2025 15:08:53 +0800</pubDate>
-      <guid>https://Siriuslala.github.io/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mechanistic Interpretability</title>
-      <link>https://Siriuslala.github.io/tags/mechanistic-interpretability/</link>
-      <pubDate>Tue, 25 Feb 2025 15:08:53 +0800</pubDate>
-      <guid>https://Siriuslala.github.io/tags/mechanistic-interpretability/</guid>
       <description></description>
     </item>
     <item>

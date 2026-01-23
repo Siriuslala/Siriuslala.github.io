@@ -11,8 +11,211 @@
     </image>
     <generator>Hugo -- 0.147.6</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Feb 2025 15:08:53 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 21:21:39 +0800</lastBuildDate>
     <atom:link href="https://Siriuslala.github.io/tags/mechanistic-interpretability/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Collection of My Publications</title>
+      <link>https://Siriuslala.github.io/posts/publications/</link>
+      <pubDate>Fri, 23 Jan 2026 21:21:39 +0800</pubDate>
+      <guid>https://Siriuslala.github.io/posts/publications/</guid>
+      <description>&lt;div class=&#34;legend&#34; style=&#34;font-size: 0.9em; color: var(--secondary); margin-bottom: 20px;&#34;&gt;
+    &lt;span&gt;&lt;sup&gt;*&lt;/sup&gt; Equal contribution&lt;/span&gt;
+    &lt;span style=&#34;margin-left: 15px;&#34;&gt;&lt;sup&gt;✉&lt;/sup&gt; Corresponding author&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paper-item&#34;&gt;
+    &lt;div class=&#34;paper-img-container&#34;&gt;
+        
+        &lt;img src=&#34;https://Siriuslala.github.io/publications/reading_images_like_texts.png&#34; alt=&#34;Reading Images Like Texts: Sequential Image Understanding in Vision-Language Models&#34; class=&#34;paper-img&#34;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&#34;paper-info&#34;&gt;
+        &lt;span class=&#34;conf-badge badge-iclr&#34;&gt;ICLR 2026&lt;/span&gt;
+        
+        
+        &lt;a href=&#34;https://arxiv.org/pdf/2509.19191&#34; 
+           class=&#34;paper-title&#34; 
+           target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+           Reading Images Like Texts: Sequential Image Understanding in Vision-Language Models
+        &lt;/a&gt;
+        
+        &lt;div class=&#34;author-list&#34;&gt;
+            &lt;span class=&#39;me&#39;&gt;Yueyan Li&lt;/span&gt;&lt;sup&gt;*&lt;/sup&gt;, Chenggong Zhao, Zeyuan Zhang, Caixia Yuan, Xiaojie Wang&lt;sup&gt;✉&lt;/sup&gt;
+        &lt;/div&gt;
+        
+        &lt;div class=&#34;venue&#34;&gt;
+            International Conference on Learning Representations (ICLR), 2026
+        &lt;/div&gt;
+        
+        &lt;div class=&#34;btn-group&#34;&gt;
+            &lt;a href=&#34;https://arxiv.org/pdf/2509.19191&#34; class=&#34;btn&#34;&gt;PDF&lt;/a&gt;
+            &lt;a href=&#34;https://github.com/Siriuslala/vlm_interp&#34; class=&#34;btn&#34;&gt;Code&lt;/a&gt;
+            
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- &lt;span style=&#39;color:#e53935; font-weight:bold;&#39;&gt;(Oral)&lt;/span&gt; --&gt;
+&lt;hr&gt;
+&lt;div class=&#34;paper-item&#34;&gt;
+    &lt;div class=&#34;paper-img-container&#34;&gt;
+        
+        &lt;img src=&#34;https://Siriuslala.github.io/publications/circuit-tuning.png&#34; alt=&#34;Sparse Model Diffing via Dynamic Circuits&#34; class=&#34;paper-img&#34;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&#34;paper-info&#34;&gt;
+        &lt;span class=&#34;conf-badge badge-arxiv&#34;&gt;arxiv&lt;/span&gt;
+        
+        
+        &lt;a href=&#34;https://arxiv.org/pdf/2502.06106&#34; 
+           class=&#34;paper-title&#34; 
+           target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+           Sparse Model Diffing via Dynamic Circuits
+        &lt;/a&gt;
+        
+        &lt;div class=&#34;author-list&#34;&gt;
+            &lt;span class=&#39;me&#39;&gt;Yueyan Li&lt;/span&gt;&lt;sup&gt;*&lt;/sup&gt;, Wenhao Gap, Caixia Yuan, Xiaojie Wang&lt;sup&gt;✉&lt;/sup&gt;
+        &lt;/div&gt;
+        
+        &lt;div class=&#34;venue&#34;&gt;
+            ArXiv, 2026
+        &lt;/div&gt;
+        
+        &lt;div class=&#34;btn-group&#34;&gt;
+            &lt;a href=&#34;https://arxiv.org/pdf/2502.06106&#34; class=&#34;btn&#34;&gt;PDF&lt;/a&gt;
+            &lt;a href=&#34;https://github.com/Siriuslala/circuit-tuning&#34; class=&#34;btn&#34;&gt;Code&lt;/a&gt;
+            
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;div class=&#34;paper-item&#34;&gt;
+    &lt;div class=&#34;paper-img-container&#34;&gt;
+        
+        &lt;img src=&#34;https://Siriuslala.github.io/publications/autoglm.png&#34; alt=&#34;AutoGLM: Autonomous Foundation Agents for GUIs&#34; class=&#34;paper-img&#34;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&#34;paper-info&#34;&gt;
+        &lt;span class=&#34;conf-badge badge-techReport&#34;&gt;Technical Report&lt;/span&gt;
+        
+        
+        &lt;a href=&#34;https://arxiv.org/pdf/2411.00820&#34; 
+           class=&#34;paper-title&#34; 
+           target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+           AutoGLM: Autonomous Foundation Agents for GUIs
+        &lt;/a&gt;
+        
+        &lt;div class=&#34;author-list&#34;&gt;
+            Team AutoGLM
+        &lt;/div&gt;
+        
+        &lt;div class=&#34;venue&#34;&gt;
+            Arxiv, 2024
+        &lt;/div&gt;
+        
+        &lt;div class=&#34;btn-group&#34;&gt;
+            &lt;a href=&#34;https://arxiv.org/pdf/2411.00820&#34; class=&#34;btn&#34;&gt;PDF&lt;/a&gt;
+            &lt;a href=&#34;https://github.com/zai-org/Open-AutoGLM&#34; class=&#34;btn&#34;&gt;Code&lt;/a&gt;
+            
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;div class=&#34;paper-item&#34;&gt;
+    &lt;div class=&#34;paper-img-container&#34;&gt;
+        
+        &lt;img src=&#34;https://Siriuslala.github.io/publications/chatglm-math.png&#34; alt=&#34;ChatGLM-Math: Improving Math Problem-Solving in Large Language Models with a Self-Critique Pipeline&#34; class=&#34;paper-img&#34;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&#34;paper-info&#34;&gt;
+        &lt;span class=&#34;conf-badge badge-emnlp&#34;&gt;EMNLP 2024&lt;/span&gt;
+        
+        
+        &lt;a href=&#34;https://arxiv.org/pdf/2411.00820&#34; 
+           class=&#34;paper-title&#34; 
+           target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+           ChatGLM-Math: Improving Math Problem-Solving in Large Language Models with a Self-Critique Pipeline
+        &lt;/a&gt;
+        
+        &lt;div class=&#34;author-list&#34;&gt;
+            Yifan Xu&lt;sup&gt;*&lt;/sup&gt;, Xiao Liu, Xinghan Liu, Zhenyu Hou, &lt;span class=&#39;me&#39;&gt;Yueyan Li&lt;/span&gt;, Xiaohan Zhang, Zihan Wang, Aohan Zeng, Zhengxiao Du, Zhao Wenyi, Jie Tang, Yuxiao Dong&lt;sup&gt;✉&lt;/sup&gt;
+        &lt;/div&gt;
+        
+        &lt;div class=&#34;venue&#34;&gt;
+            Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024
+        &lt;/div&gt;
+        
+        &lt;div class=&#34;btn-group&#34;&gt;
+            &lt;a href=&#34;https://aclanthology.org/2024.findings-emnlp.569.pdf&#34; class=&#34;btn&#34;&gt;PDF&lt;/a&gt;
+            &lt;a href=&#34;https://github.com/Siriuslala/ChatGLM-Math&#34; class=&#34;btn&#34;&gt;Code&lt;/a&gt;
+            
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;div class=&#34;paper-item&#34;&gt;
+    &lt;div class=&#34;paper-img-container&#34;&gt;
+        
+        &lt;img src=&#34;https://Siriuslala.github.io/publications/chatglm.png&#34; alt=&#34;ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools&#34; class=&#34;paper-img&#34;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&#34;paper-info&#34;&gt;
+        &lt;span class=&#34;conf-badge badge-techReport&#34;&gt;Technical Report&lt;/span&gt;
+        
+        
+        &lt;a href=&#34;https://arxiv.org/pdf/2406.12793&#34; 
+           class=&#34;paper-title&#34; 
+           target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+           ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools
+        &lt;/a&gt;
+        
+        &lt;div class=&#34;author-list&#34;&gt;
+            Team GLM
+        &lt;/div&gt;
+        
+        &lt;div class=&#34;venue&#34;&gt;
+            Arxiv, 2024
+        &lt;/div&gt;
+        
+        &lt;div class=&#34;btn-group&#34;&gt;
+            &lt;a href=&#34;https://arxiv.org/pdf/2406.12793&#34; class=&#34;btn&#34;&gt;PDF&lt;/a&gt;
+            &lt;a href=&#34;https://github.com/zai-org/GLM-4&#34; class=&#34;btn&#34;&gt;Code&lt;/a&gt;
+            
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;div class=&#34;paper-item&#34;&gt;
+    &lt;div class=&#34;paper-img-container&#34;&gt;
+        
+        &lt;img src=&#34;https://Siriuslala.github.io/publications/entrokv.png&#34; alt=&#34;EntroKV: An Entropy-aware Memory Manager for KV cache Compression&#34; class=&#34;paper-img&#34;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&#34;paper-info&#34;&gt;
+        &lt;span class=&#34;conf-badge badge-arxiv&#34;&gt;arxiv&lt;/span&gt;
+        
+        
+        &lt;a href=&#34;https://arxiv.org/pdf/2502.06106&#34; 
+           class=&#34;paper-title&#34; 
+           target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+           EntroKV: An Entropy-aware Memory Manager for KV cache Compression
+        &lt;/a&gt;
+        
+        &lt;div class=&#34;author-list&#34;&gt;
+            Wenhao Gao&lt;sup&gt;*&lt;/sup&gt;, Haoran Cao, &lt;span class=&#39;me&#39;&gt;Yueyan Li&lt;/span&gt;, Caixia Yuan, Xiaojie Wang&lt;sup&gt;✉&lt;/sup&gt;
+        &lt;/div&gt;
+        
+        &lt;div class=&#34;venue&#34;&gt;
+            ArXiv, 2026
+        &lt;/div&gt;
+        
+        &lt;div class=&#34;btn-group&#34;&gt;
+            
+            &lt;a href=&#34;https://github.com/Siriuslala/wisekv&#34; class=&#34;btn&#34;&gt;Code&lt;/a&gt;
+            
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;</description>
+    </item>
     <item>
       <title>Interpretability (&amp; other areas) for Multimodal Models</title>
       <link>https://Siriuslala.github.io/posts/mm_interp/</link>
