@@ -453,14 +453,6 @@ This post is initially focused on interpretability for multimodal models, while
 &lt;p&gt;&lt;strong&gt;visual pretraining&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Circuit-tuning: A Mechanistic Approach for Identifying Parameter Redundancy and Fine-tuning Neural Networks</title>
-      <link>https://Siriuslala.github.io/posts/circuit_tuning/</link>
-      <pubDate>Wed, 05 Feb 2025 16:22:33 +0800</pubDate>
-      <guid>https://Siriuslala.github.io/posts/circuit_tuning/</guid>
-      <description>&lt;!-- The [paper](/pdfs/circuit_tuning) is here. --&gt;
-&lt;p&gt;ArXiv(old version): &lt;a href=&#34;https://arxiv.org/pdf/2502.06106&#34;&gt;https://arxiv.org/pdf/2502.06106&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Possible Research Areas in Mechanistic Interpretability</title>
       <link>https://Siriuslala.github.io/posts/mech_interp_research/</link>
       <pubDate>Fri, 06 Sep 2024 22:52:16 +0800</pubDate>
