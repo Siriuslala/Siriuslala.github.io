@@ -662,7 +662,13 @@ This post is initially focused on interpretability for multimodal models, while
 &lt;ul&gt;
 &lt;li&gt;general
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2306.00966&#34;&gt;The hidden language of diffusion models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2602.07050&#34;&gt;Interpreting Physics in Video World Models&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;V-JEPA 系列&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2306.00966&#34;&gt;The Hidden Language of Diffusion Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://openaccess.thecvf.com/content/CVPR2024/papers/Si_FreeU_Free_Lunch_in_Diffusion_U-Net_CVPR_2024_paper.pdf&#34;&gt;FreeU: Free Lunch in Diffusion U-Net&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://openaccess.thecvf.com/content/ICCV2023/papers/Xiang_Denoising_Diffusion_Autoencoders_are_Unified_Self-supervised_Learners_ICCV_2023_paper.pdf&#34;&gt;Denoising diffusion autoencoders are unified self-supervised learners&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://proceedings.neurips.cc/paper_files/paper/2023/file/4bfcebedf7a2967c410b64670f27f904-Paper-Conference.pdf&#34;&gt;Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -688,8 +694,10 @@ This post is initially focused on interpretability for multimodal models, while
 &lt;/li&gt;
 &lt;li&gt;inference
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2603.16870&#34;&gt;Demystifying Video Reasoning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2502.05743&#34;&gt;Understanding Representation Dynamics of Diffusion Models via Low-Dimensional Modeling&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2512.08486&#34;&gt;Temporal Concept Dynamics in Diffusion Models via Prompt-Conditioned Interventions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://proceedings.neurips.cc/paper_files/paper/2024/file/63e8bc7bbf1cfea36d1d1b6538aecce5-Paper-Conference.pdf&#34;&gt;Towards Understanding the Working Mechanism of Text-to-Image Diffusion Model&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://proceedings.neurips.cc/paper_files/paper/2024/file/63e8bc7bbf1cfea36d1d1b6538aecce5-Paper-Conference.pdf&#34;&gt;*Towards Understanding the Working Mechanism of Text-to-Image Diffusion Model&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -699,7 +707,7 @@ This post is initially focused on interpretability for multimodal models, while
 &lt;li&gt;positional encoding
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2503.16153&#34;&gt;FreeFlux: Understanding and Exploiting Layer-Specific Roles in RoPE-Based MMDiT for Versatile Image Editing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2503.09830&#34;&gt;Exploring Position Encoding in Diffusion U-Net for Training-free High-resolution Image Generation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2503.09830&#34;&gt;*Exploring Position Encoding in Diffusion U-Net for Training-free High-resolution Image Generation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;attention
@@ -707,6 +715,11 @@ This post is initially focused on interpretability for multimodal models, while
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2210.04885&#34;&gt;What the DAAM: Interpreting Stable Diffusion Using Cross Attention&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;probing&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2602.07050&#34;&gt;Interpreting Physics in Video World Models&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;circuit&lt;/strong&gt;
@@ -719,8 +732,8 @@ This post is initially focused on interpretability for multimodal models, while
 &lt;li&gt;&lt;strong&gt;SAE&lt;/strong&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2504.15473&#34;&gt;Emergence and Evolution of Interpretable Concepts in Diffusion Models&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2501.18052&#34;&gt;SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2503.07050&#34;&gt;Tide: Temporal-aware sparse autoencoders for interpretable diffusion transformers in image generation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2501.18052&#34;&gt;SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;steering vector&lt;/strong&gt;
@@ -731,14 +744,20 @@ This post is initially focused on interpretability for multimodal models, while
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;learning dynamics&lt;/strong&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2603.03469&#34;&gt;Biased Generalization in Diffusion Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2505.16959&#34;&gt;Bigger Isn’t Always Memorizing: Early Stopping Overparameterized Diffusion Models&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2505.17638&#34;&gt;Why Diffusion Models Don’t Memorize: The Role of Implicit Dynamical Regularization in Training&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2503.03206&#34;&gt;An Analytical Theory of Spectral Bias in the Learning Dynamics of Diffusion Models&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;visualization&lt;/strong&gt;
-*&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;others&lt;/strong&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2505.17517&#34;&gt;The Spacetime of Diffusion Models: An Information Geometry Perspective&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://aclanthology.org/2025.emnlp-main.304.pdf&#34;&gt;VideoEraser: Concept Erasure in Text-to-Video Diffusion Models&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2506.19852&#34;&gt;Radial Attention: O(nlogn) Sparse Attention with Energy Decay for Long Video Generation&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2511.20798&#34;&gt;Physics Steering: Causal Control of Cross-Domain Concepts in a Physics Foundation Model&lt;/a&gt;&lt;/li&gt;
@@ -747,6 +766,7 @@ This post is initially focused on interpretability for multimodal models, while
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;application-guided&lt;/strong&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2510.08073&#34;&gt;Physics-Driven Spatiotemporal Modeling for AI-Generated Video Detection&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://proceedings.neurips.cc/paper_files/paper/2023/file/0503f5dce343a1d06d16ba103dd52db1-Paper-Conference.pdf&#34;&gt;Emergent Correspondence from Image Diffusion&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2601.12761&#34;&gt;Moaw: Unleashing Motion Awareness for Video Diffusion Models&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2406.10210&#34;&gt;Make It Count: Text-to-Image Generation with an Accurate Number of Objects&lt;/a&gt;&lt;/li&gt;
