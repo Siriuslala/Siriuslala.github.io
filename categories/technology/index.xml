@@ -25,6 +25,36 @@
 &lt;div class=&#34;paper-item&#34;&gt;
     &lt;div class=&#34;paper-img-container&#34;&gt;
         
+    &lt;/div&gt;
+    &lt;div class=&#34;paper-info&#34;&gt;
+        &lt;span class=&#34;conf-badge badge-techReport&#34;&gt;Technical Report&lt;/span&gt;
+        
+        
+        &lt;a href=&#34;#&#34; 
+           class=&#34;paper-title&#34; 
+           &gt;
+           Seedance 2.0: Advancing Video Generation for World Complexity
+        &lt;/a&gt;
+        
+        &lt;div class=&#34;author-list&#34;&gt;
+            Team Seedance
+        &lt;/div&gt;
+        
+        &lt;div class=&#34;venue&#34;&gt;
+            Arxiv, 2026
+        &lt;/div&gt;
+        
+        &lt;div class=&#34;btn-group&#34;&gt;
+            
+            
+            
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;div class=&#34;paper-item&#34;&gt;
+    &lt;div class=&#34;paper-img-container&#34;&gt;
+        
         &lt;img src=&#34;https://Siriuslala.github.io/publications/reading_images_like_texts.png&#34; alt=&#34;Reading Images Like Texts: Sequential Image Understanding in Vision-Language Models&#34; class=&#34;paper-img&#34;&gt;
         
     &lt;/div&gt;
