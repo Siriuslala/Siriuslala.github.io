@@ -39,7 +39,7 @@
         &lt;/a&gt;
         
         &lt;div class=&#34;author-list&#34;&gt;
-            &lt;span class=&#39;me&#39;&gt;Yueyan Li&lt;/span&gt;&lt;sup&gt;*&lt;/sup&gt;, Chenggong Zhao, Zeyuan Zhang, Caixia Yuan, Xiaojie Wang&lt;sup&gt;✉&lt;/sup&gt;
+            &lt;span class=&#39;me&#39;&gt;Yueyan Li&lt;/span&gt;&lt;sup&gt;*&lt;/sup&gt;, Chenggong Zhao, Zeyuan Zhang, Caixia Yuan&lt;sup&gt;✉&lt;/sup&gt;, Xiaojie Wang
         &lt;/div&gt;
         
         &lt;div class=&#34;venue&#34;&gt;
@@ -72,7 +72,7 @@
         &lt;/a&gt;
         
         &lt;div class=&#34;author-list&#34;&gt;
-            &lt;span class=&#39;me&#39;&gt;Yueyan Li&lt;/span&gt;&lt;sup&gt;*&lt;/sup&gt;, Wenhao Gap, Caixia Yuan, Xiaojie Wang&lt;sup&gt;✉&lt;/sup&gt;
+            &lt;span class=&#39;me&#39;&gt;Yueyan Li&lt;/span&gt;&lt;sup&gt;*&lt;/sup&gt;, Wenhao Gao, Caixia Yuan&lt;sup&gt;✉&lt;/sup&gt;, Xiaojie Wang
         &lt;/div&gt;
         
         &lt;div class=&#34;venue&#34;&gt;
@@ -357,6 +357,7 @@ This post is initially focused on interpretability for multimodal models, while
 &lt;li&gt;inference
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2603.16870&#34;&gt;Demystifying Video Reasoning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2603.30043&#34;&gt;Video Models Reason Early: Exploiting Plan Commitment for Maze Solving&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2502.05743&#34;&gt;Understanding Representation Dynamics of Diffusion Models via Low-Dimensional Modeling&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2512.08486&#34;&gt;Temporal Concept Dynamics in Diffusion Models via Prompt-Conditioned Interventions&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://proceedings.neurips.cc/paper_files/paper/2024/file/63e8bc7bbf1cfea36d1d1b6538aecce5-Paper-Conference.pdf&#34;&gt;*Towards Understanding the Working Mechanism of Text-to-Image Diffusion Model&lt;/a&gt;&lt;/li&gt;
