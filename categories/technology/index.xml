@@ -25,6 +25,8 @@
 &lt;div class=&#34;paper-item&#34;&gt;
     &lt;div class=&#34;paper-img-container&#34;&gt;
         
+        &lt;img src=&#34;https://Siriuslala.github.io/publications/seedance2_0_2.png&#34; alt=&#34;Seedance 2.0: Advancing Video Generation for World Complexity&#34; class=&#34;paper-img&#34;&gt;
+        
     &lt;/div&gt;
     &lt;div class=&#34;paper-info&#34;&gt;
         &lt;span class=&#34;conf-badge badge-techReport&#34;&gt;Technical Report&lt;/span&gt;
