@@ -225,9 +225,9 @@
         &lt;span class=&#34;conf-badge badge-arxiv&#34;&gt;arxiv&lt;/span&gt;
         
         
-        &lt;a href=&#34;https://arxiv.org/pdf/2502.06106&#34; 
+        &lt;a href=&#34;#&#34; 
            class=&#34;paper-title&#34; 
-           target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+           &gt;
            EntroKV: An Entropy-aware Memory Manager for KV cache Compression
         &lt;/a&gt;
         
