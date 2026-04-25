@@ -304,6 +304,7 @@ This post is initially focused on interpretability for multimodal models, while
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2506.23270&#34;&gt;Token Activation Map to Visually Explain Multimodal LLMs&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://openaccess.thecvf.com/content/CVPR2024W/XAI4CV/papers/Stan_LVLM-Intrepret_An_Interpretability_Tool_for_Large_Vision-Language_Models_CVPRW_2024_paper.pdf&#34;&gt;LVLM-Intrepret: An Interpretability Tool for Large Vision Language Models&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2012.09838&#34;&gt;Transformer Interpretability Beyond Attention Visualization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2504.13763&#34;&gt;Decoding Vision Transformers: the Diffusion Steering Lens&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;others&lt;/strong&gt;
@@ -342,6 +343,11 @@ This post is initially focused on interpretability for multimodal models, while
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2502.15969&#34;&gt;Forgotten Polygons: Multimodal Large Language Models are Shape-Blind&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2309.16588&#34;&gt;Vision Transformers Need Registers&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2507.03683&#34;&gt;On the rankability of visual embeddings&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;learning dynamics&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2302.06015&#34;&gt;A Theoretical Understanding of shallow Vision Transformers: Learning, Generalization, and Sample Complexity&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -384,6 +390,12 @@ This post is initially focused on interpretability for multimodal models, while
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://proceedings.neurips.cc/paper_files/paper/2024/file/8b2fc235787852ead92da2268cd9e90c-Paper-Conference.pdf&#34;&gt;Video Diffusion Models are Training-free Motion Interpreter and Controller&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2506.17220&#34;&gt;Emergent Temporal Correspondences from Video Diffusion Transformers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;attention
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://openreview.net/pdf?id=1vggIT5vvj&#34;&gt;Cross-Attention Head Position Patterns Can Align with Human Visual Concepts in Text-to-Image Generative Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2504.12027&#34;&gt;Understanding Attention Mechanism in Video Diffusion Models&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;inference

@@ -277,6 +277,11 @@
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2404.02893&#34;&gt;ChatGLM-Math: Improving Math Problem-Solving in Large Language Models with a Self-Critique Pipeline&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;fancy
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2509.25123&#34;&gt;From f(x) and g(x) to f(g(x)): LLMs Learn New Skills in RL by Composing Old Ones&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;blogs
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://yuanchaofa.com/post/deepseek-r1-paper-reading-notes.html&#34;&gt;自顶向下方式深度解读 DeepSeek-R1，内含大量细节&lt;/a&gt;&lt;/li&gt;
@@ -391,6 +396,7 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/1707.06347&#34;&gt;(PPO) Proximal Policy Optimization Algorithms&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2501.03262&#34;&gt;(REINFORCE++) REINFORCE++: An Efficient RLHF Algorithm with Robustness to Both Prompt and Reward Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://huggingface.co/blog/NormalUhr/grpo-to-dapo-and-gspo&#34;&gt;From GRPO to DAPO and GSPO: What, Why, and How&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2501.12948?&#34;&gt;(GRPO) DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2503.14476&#34;&gt;(DAPO) DAPO: An Open-Source LLM Reinforcement Learning System at Scale&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2507.18071&#34;&gt;(GSPO) Group Sequence Policy Optimization&lt;/a&gt;&lt;/li&gt;
@@ -642,6 +648,7 @@ This post is initially focused on interpretability for multimodal models, while
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2506.23270&#34;&gt;Token Activation Map to Visually Explain Multimodal LLMs&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://openaccess.thecvf.com/content/CVPR2024W/XAI4CV/papers/Stan_LVLM-Intrepret_An_Interpretability_Tool_for_Large_Vision-Language_Models_CVPRW_2024_paper.pdf&#34;&gt;LVLM-Intrepret: An Interpretability Tool for Large Vision Language Models&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2012.09838&#34;&gt;Transformer Interpretability Beyond Attention Visualization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2504.13763&#34;&gt;Decoding Vision Transformers: the Diffusion Steering Lens&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;others&lt;/strong&gt;
@@ -680,6 +687,11 @@ This post is initially focused on interpretability for multimodal models, while
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2502.15969&#34;&gt;Forgotten Polygons: Multimodal Large Language Models are Shape-Blind&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2309.16588&#34;&gt;Vision Transformers Need Registers&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2507.03683&#34;&gt;On the rankability of visual embeddings&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;learning dynamics&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2302.06015&#34;&gt;A Theoretical Understanding of shallow Vision Transformers: Learning, Generalization, and Sample Complexity&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -722,6 +734,12 @@ This post is initially focused on interpretability for multimodal models, while
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://proceedings.neurips.cc/paper_files/paper/2024/file/8b2fc235787852ead92da2268cd9e90c-Paper-Conference.pdf&#34;&gt;Video Diffusion Models are Training-free Motion Interpreter and Controller&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2506.17220&#34;&gt;Emergent Temporal Correspondences from Video Diffusion Transformers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;attention
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://openreview.net/pdf?id=1vggIT5vvj&#34;&gt;Cross-Attention Head Position Patterns Can Align with Human Visual Concepts in Text-to-Image Generative Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2504.12027&#34;&gt;Understanding Attention Mechanism in Video Diffusion Models&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;inference

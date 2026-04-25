@@ -42,6 +42,11 @@
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2404.02893&#34;&gt;ChatGLM-Math: Improving Math Problem-Solving in Large Language Models with a Self-Critique Pipeline&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;fancy
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2509.25123&#34;&gt;From f(x) and g(x) to f(g(x)): LLMs Learn New Skills in RL by Composing Old Ones&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;blogs
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://yuanchaofa.com/post/deepseek-r1-paper-reading-notes.html&#34;&gt;自顶向下方式深度解读 DeepSeek-R1，内含大量细节&lt;/a&gt;&lt;/li&gt;
@@ -156,6 +161,7 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/1707.06347&#34;&gt;(PPO) Proximal Policy Optimization Algorithms&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2501.03262&#34;&gt;(REINFORCE++) REINFORCE++: An Efficient RLHF Algorithm with Robustness to Both Prompt and Reward Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://huggingface.co/blog/NormalUhr/grpo-to-dapo-and-gspo&#34;&gt;From GRPO to DAPO and GSPO: What, Why, and How&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2501.12948?&#34;&gt;(GRPO) DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2503.14476&#34;&gt;(DAPO) DAPO: An Open-Source LLM Reinforcement Learning System at Scale&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2507.18071&#34;&gt;(GSPO) Group Sequence Policy Optimization&lt;/a&gt;&lt;/li&gt;
