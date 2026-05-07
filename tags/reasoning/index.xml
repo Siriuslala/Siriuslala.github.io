@@ -269,6 +269,17 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;on-policy-distillation&#34;&gt;On-Policy Distillation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;blogs&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://thinkingmachines.ai/blog/on-policy-distillation/&#34;&gt;On-Policy Distillation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/2023108953026883794&#34;&gt;系统聊聊 On-Policy Distillation 的原理&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/mtlBcnDtKmysoNcuUvat-A?scene=1&amp;amp;click_id=176&#34;&gt;近期关于Off Policy&amp;amp;On-Policy Distillation的一些总结&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/f-8bwXwP8DvkeJNzPpaz9w&#34;&gt;近半年 On-Policy Distillation 的三大主流方向：一个方法解决两道难题&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
   </channel>
