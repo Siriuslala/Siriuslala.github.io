@@ -25,10 +25,16 @@
 &lt;ul&gt;
 &lt;li&gt;explicit reasoning
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2412.19437&#34;&gt;DeepSeek-V3 Technical Report&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2501.12948?&#34;&gt;DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2512.02556&#34;&gt;DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf&#34;&gt;DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2504.13914&#34;&gt;Seed1.5-Thinking: Advancing Superb Reasoning Models with Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2501.12599&#34;&gt;Kimi k1.5: Scaling Reinforcement Learning with LLMs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://moonshotai.github.io/Kimi-K2/&#34;&gt;Kimi K2: Open Agentic Intelligence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2602.02276&#34;&gt;Kimi K2.5: Visual Agentic Intelligence&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2508.06471&#34;&gt;GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2602.15763&#34;&gt;GLM-5: from Vibe Coding to Agentic Engineering&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2505.22312&#34;&gt;Skywork Open Reasoner 1 Technical Report&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -150,10 +156,35 @@
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2505.12514&#34;&gt;Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;reinforcement-learning&#34;&gt;Reinforcement Learning&lt;/h2&gt;
+&lt;h3 id=&#34;blogs&#34;&gt;Blogs&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;algorithms
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/26603287144&#34;&gt;强化学习：从策略梯度到TRPO、PPO、DPO、GRPO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/7461863937&#34;&gt;人人都能看懂的RL-PPO理论知识&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/25410252053?share_code=2UJFMKKeyurA&amp;amp;utm_psn=1939508205295239578&#34;&gt;Reasoning LLM（三）：LLM+RL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/e6mfNLYwLQV-UKuVo6U6zQ&#34;&gt;RLHF 常见的思维误区&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;rl-algorithms&#34;&gt;RL algorithms&lt;/h3&gt;
 &lt;ul&gt;
+&lt;li&gt;blogs
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://huggingface.co/blog/NormalUhr/grpo-to-dapo-and-gspo&#34;&gt;From GRPO to DAPO and GSPO: What, Why, and How&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/512762423&#34;&gt;meta-RL&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.csdn.net/l35633/article/details/149917249&#34;&gt;【强化学习解惑】元强化学习（Meta-RL）是什么？它与普通强化学习有什么区别？&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/1506.02438&#34;&gt;(GAE) High-Dimensional Continuous Control Using Generalized Advantage Estimation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://proceedings.neurips.cc/paper_files/paper/2023/file/a85b405ed65c6477a4fe8302b5e06ce7-Paper-Conference.pdf&#34;&gt;(DPO) Direct preference optimization: Your language model is secretly a reward model&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://proceedings.neurips.cc/paper_files/paper/2023/file/a85b405ed65c6477a4fe8302b5e06ce7-Paper-Conference.pdf&#34;&gt;(DPO) Direct preference optimization: Your language model is secretly a reward model&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/779691018&#34;&gt;推导&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2404.12358&#34;&gt;From r to q∗: Your language model is secretly a q-function&lt;/a&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/693746297&#34;&gt;DPO新作Your Language Model is Secretly a Q-Function解读，与OPENAI Q* 的联系？&lt;/a&gt;&lt;/li&gt;
@@ -161,19 +192,17 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/1707.06347&#34;&gt;(PPO) Proximal Policy Optimization Algorithms&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2501.03262&#34;&gt;(REINFORCE++) REINFORCE++: An Efficient RLHF Algorithm with Robustness to Both Prompt and Reward Models&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://huggingface.co/blog/NormalUhr/grpo-to-dapo-and-gspo&#34;&gt;From GRPO to DAPO and GSPO: What, Why, and How&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2501.12948?&#34;&gt;(GRPO) DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2503.14476&#34;&gt;(DAPO) DAPO: An Open-Source LLM Reinforcement Learning System at Scale&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2507.18071&#34;&gt;(GSPO) Group Sequence Policy Optimization&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2506.13585&#34;&gt;(Cispo) MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;blogs&#34;&gt;Blogs&lt;/h3&gt;
+&lt;li&gt;RL optimization tricks
 &lt;ul&gt;
-&lt;li&gt;algorithms
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/7461863937&#34;&gt;人人都能看懂的RL-PPO理论知识&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/25410252053?share_code=2UJFMKKeyurA&amp;amp;utm_psn=1939508205295239578&#34;&gt;Reasoning LLM（三）：LLM+RL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/e6mfNLYwLQV-UKuVo6U6zQ&#34;&gt;RLHF 常见的思维误区&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2601.05242&#34;&gt;GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://proceedings.neurips.cc/paper_files/paper/2025/file/e1d40e928125c515099a3fdb75f06a50-Paper-Conference.pdf&#34;&gt;SRPO ：Enhancing Multimodal LLM Reasoning viaReflection-Aware Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2401.16025&#34;&gt;(SPO1) Simple Policy Optimization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2509.13232&#34;&gt;(SPO2) Single-stream Policy Optimization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2507.01551&#34;&gt;(SPRO) Self-Guided Process Reward Optimization&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -192,6 +221,11 @@
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2311.04155&#34;&gt;Black-Box Prompt Optimization: Aligning Large Language Models without Model Training&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;learn from RMs
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2506.03106&#34;&gt;(Critique-GRPO) Advancing LLM Reasoning with Natural Language and Numerical Feedback&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;analyses-1&#34;&gt;analyses&lt;/h3&gt;
 &lt;ul&gt;
@@ -206,6 +240,12 @@
 &lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/1924309705548867391&#34;&gt;LLMxRL】熵坍缩与缓解策略&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2505.22617&#34;&gt;(clip/kl-cov) The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2506.01939&#34;&gt;(forking tokens) Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;KL divergence&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2512.21852&#34;&gt;A Comedy of Estimators: On KL Regularization in RL Training of LLMs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://xihuai18.github.io/reinforcement-learning/2025/12/01/kl-estimators-zh.html&#34;&gt;RL 中的 KL 估计器选型：从数值无偏到梯度正确&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;RL v.s. SFT&lt;/strong&gt;
@@ -230,7 +270,8 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2409.19256v2&#34;&gt;(verl) HybridFlow: A Flexible and Efficient RLHF Framework&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://verl.readthedocs.io/en/latest/index.html&#34;&gt;doc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://verl.org.cn/en/latest/&#34;&gt;doc(cn)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://verl.readthedocs.io/en/latest/index.html&#34;&gt;doc(en)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/volcengine/verl&#34;&gt;repo&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;

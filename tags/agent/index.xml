@@ -21,7 +21,99 @@
       <description>&lt;h2 id=&#34;the-purpose-i-write-this-blog&#34;&gt;The Purpose I Write This Blog&lt;/h2&gt;
 &lt;p&gt;   LLM-based agent is gonna change the world. Amazing agent systems have been created to change our life. Since I was once in a team that aimed to build advanced agents for the control of digital devices and for which I was impressed, I want to keep to collect information about LLM agents and share my thoughts here.&lt;/p&gt;
 &lt;h2 id=&#34;resource&#34;&gt;Resource&lt;/h2&gt;
-&lt;h3 id=&#34;gui-agents&#34;&gt;GUI Agents&lt;/h3&gt;
+&lt;h3 id=&#34;agentic-rl&#34;&gt;Agentic RL&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;survey
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2604.09459v1&#34;&gt;From Reasoning to Agentic: Credit Assignment in Reinforcement Learning for Large Language Models&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/2028507003345989958&#34;&gt;知乎解读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;papers
+&lt;ul&gt;
+&lt;li&gt;LLM
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2508.20722&#34;&gt;rStar2-Agent: Agentic Reasoning Technical Report&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://proceedings.neurips.cc/paper_files/paper/2025/file/420c9f777c0b4f78d515e53cf74d58b2-Paper-Conference.pdf&#34;&gt;(GiGPO) Group-in-Group Policy Optimization for LLM Agent Training&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2507.19849&#34;&gt;(ARPO) Agentic Reinforced Policy Optimization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2510.14545&#34;&gt;(AEPO) Agentic Entropy-Balanced Policy Optimization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2512.17008&#34;&gt;Turn-PPO: Turn-Level Advantage Estimation with PPO for Improved Multi-Turn RL in Agentic LLMs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;VLM
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://proceedings.neurips.cc/paper_files/paper/2024/file/c848b7d3adc08fcd0bf1df3101ba6728-Paper-Conference.pdf&#34;&gt;Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;multi-agent
+&lt;ul&gt;
+&lt;li&gt;advantage computation
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2602.08847&#34;&gt;Dr. MAS: Stable Reinforcement Learning for Multi-Agent LLM Systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2511.13288&#34;&gt;(M-GRPO) Multi-Agent Deep Research: Training Multi-Agent Systems with M-GRPO&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;MARL credit assignment
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cs.ox.ac.uk/people/shimon.whiteson/pubs/foersteraaai18.pdf&#34;&gt;(COMA) Counterfactual Multi-Agent Policy Gradients&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2603.21563&#34;&gt;(CCPO) Counterfactual Credit Policy Optimization for Multi-Agent Collaboration&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2602.08335&#34;&gt;(SHARP) Who Deserves the Reward? SHARP: Shapley Credit-based Optimization for Multi-Agent System&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/383269529&#34;&gt;合作博弈中夏普利值（Shapley Value）的主要思想、公理及求解公式的理解&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2603.06859&#34;&gt;(C3) Exact Is Easier: Credit Assignment for Cooperative LLM Agents&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;experience replay
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2604.08706&#34;&gt;Efficient RL Training for LLMs with Experience Replay&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2509.22601&#34;&gt;Learn the Ropes, Then Trust the Wins: Self-imitation with Progressive Exploration for Agentic Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2603.21357&#34;&gt;AgentHER: Hindsight Experience Replay for LLM Agent Trajectory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2505.16282&#34;&gt;ARPO: End-to-End Policy Optimization for GUI Agents with Experience Replay&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;context management
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2510.12635&#34;&gt;(MemAct) Memory as Action: Autonomous Context Curation for Long-Horizon Agentic Tasks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;self evolution
+&lt;ul&gt;
+&lt;li&gt;memory
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2507.02259&#34;&gt;MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;meta-RL
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2512.16848&#34;&gt;Meta-RL Induces Exploration in Language Agents&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;test-time scaling&lt;/li&gt;
+&lt;li&gt;online learning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;emergence
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2509.25123v1&#34;&gt;From f(x) and g(x) to f(g(x)): LLMs Learn New Skills in RL by Composing Old Ones&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2505.01441&#34;&gt;ARTIST: Agentic Reasoning and Tool Integration in Self-improving Transformers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;blogs
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/1913905349284591240&#34;&gt;Reasoning LLM（四）：Agentic RL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;gui-agent&#34;&gt;GUI Agent&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;survey&lt;/strong&gt;
 &lt;ul&gt;
@@ -93,11 +185,7 @@
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2506.20249&#34;&gt;Language Modeling by Language Models&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;agentic-rl&#34;&gt;Agentic RL&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;papers&lt;/p&gt;</description>
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
