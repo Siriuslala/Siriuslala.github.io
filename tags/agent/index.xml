@@ -15,9 +15,9 @@
     <atom:link href="https://Siriuslala.github.io/tags/agent/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LLM Agents</title>
-      <link>https://Siriuslala.github.io/posts/llm-agent/</link>
+      <link>https://Siriuslala.github.io/posts/llm_agent/</link>
       <pubDate>Sat, 28 Jun 2025 13:01:09 +0800</pubDate>
-      <guid>https://Siriuslala.github.io/posts/llm-agent/</guid>
+      <guid>https://Siriuslala.github.io/posts/llm_agent/</guid>
       <description>A running collection of notes, papers, and benchmarks around LLM agents, agentic RL, etc.</description>
     </item>
   </channel>
